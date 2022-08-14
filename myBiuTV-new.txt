@@ -49,6 +49,7 @@
 {"key":"待添加","title":"待添加","pic":"http://cdn-ali-img-shstaticbz.shanhutech.cn/bizhi/staticwp/202109/33339828a43795069afd4de08ce7fc2a--542398261.jpg"}
 */
 //第四套
+
 {"key":"APP","title":"主页","pic":"http://css.lc/api.php"},
 {"key":"网页","title":"自定","pic":"http://css.lc/api.php"},
 {"key":"采集","title":"采集","pic":"http://css.lc/api.php"},
@@ -56,6 +57,7 @@
 {"key":"历史","title":"历史","pic":"http://css.lc/api.php"},
 {"key":"收藏","title":"收藏","pic":"http://css.lc/api.php"}
 {"key":"待添加","title":"待增","pic":"http://css.lc/api.php"}
+
 ],
 
 //填写APP接口，支持以下5种接口格式。
@@ -11758,7 +11760,7 @@
   "bfbiaotihou": "<", 
   "bflianjieqian": "href=\"", 
   "bflianjiehou": "\""
-} ,
+},
 {"name": "夜空蓝光",
 "url": "https://www.yekong.cc",
 "tihuan": "cnzz.com",
