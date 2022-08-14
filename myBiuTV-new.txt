@@ -1,5 +1,6 @@
 ﻿//myBiuTV-new(20220814)e
 //https://notabug.org/softeam/myworks/raw/master/myBiuTV-new.txt
+//https://codeberg.org/the1stsofteam/myworks/raw/branch/main/myBiuTV-new.txt
 //https://files.catbox.moe/an2o19.txt
 //关注公众号【精品免VIP软件库】
 //第一时间获取更多的最新优质资源神器
