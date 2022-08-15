@@ -1,4 +1,4 @@
-﻿//myBiuTV-new(20220815)b
+﻿//myBiuTV-new(20220815)c
 //https://notabug.org/softeam/myworks/raw/master/myBiuTV-new.txt
 //https://codeberg.org/the1stsofteam/myworks/raw/branch/main/myBiuTV-new.txt
 //【不能使用常用的代码托管平台(包括注释行)】
@@ -79,7 +79,7 @@
 {"key":"轮播","title":"功能待定","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/dd.png"}
 */
 //第七套
-
+/*
 {"key":"APP", "title":"主页点播","pic":"https://s1.ax1x.com/2022/08/15/vdvlLD.png"},
 {"key":"网页","title":"自定放映","pic":"https://s1.ax1x.com/2022/08/15/vdvcYn.png"},
 {"key":"采集","title":"采集播放","pic":"https://s1.ax1x.com/2022/08/15/vdvWlV.png"},
@@ -88,6 +88,17 @@
 {"key":"收藏","title":"个人收藏","pic":"https://s1.ax1x.com/2022/08/15/vdvxmD.png"},
 {"key":"推送","title":"远程推送","pic":"https://s1.ax1x.com/2022/08/15/vdx9kd.png"},
 {"key":"轮播","title":"功能待定","pic":"https://s1.ax1x.com/2022/08/15/vdxZnS.png"}
+*/
+//第八套
+
+{"key":"APP", "title":"主页点播","pic":"https://i.imgtg.com/2022/08/15/KqQPD.png"},
+{"key":"网页","title":"自定放映","pic":"https://i.imgtg.com/2022/08/15/KqS9F.png"},
+{"key":"采集","title":"采集播放","pic":"https://i.imgtg.com/2022/08/15/KqcT6.png"},
+{"key":"直播","title":"电视直播","pic":"https://i.imgtg.com/2022/08/15/KqdvP.png"},
+{"key":"历史","title":"观看历史","pic":"https://i.imgtg.com/2022/08/15/Kqsdb.png"},
+{"key":"收藏","title":"个人收藏","pic":"https://i.imgtg.com/2022/08/15/KqYOl.png"},
+{"key":"推送","title":"远程推送","pic":"https://i.imgtg.com/2022/08/15/KqfNg.png"},
+{"key":"轮播","title":"功能待定","pic":"https://i.imgtg.com/2022/08/15/KqlEB.png"}
 
 ],
 
