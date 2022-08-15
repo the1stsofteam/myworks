@@ -1,4 +1,4 @@
-﻿//myBiuTV-new(20220815)a
+﻿//myBiuTV-new(20220815)b
 //https://notabug.org/softeam/myworks/raw/master/myBiuTV-new.txt
 //https://codeberg.org/the1stsofteam/myworks/raw/branch/main/myBiuTV-new.txt
 //【不能使用常用的代码托管平台(包括注释行)】
@@ -15,7 +15,7 @@
 "Home": [
 //第一套 空白
 /*
-{"key":"APP","title":"APP调试","pic":"https://epg.112114.xyz/bingimg"},
+{"key":"APP", "title":"APP调试","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"网页","title":"网页调试","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"采集","title":"采集调试","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"直播","title":"直播调试","pic":"https://epg.112114.xyz/bingimg"},
@@ -26,7 +26,7 @@
 */
 //第二套
 /*
-{"key":"APP","title":"APP调试","pic":"http://cdn-ali-img-shstaticbz.shanhutech.cn/bizhi/staticwp/202112/84c6d69bc6e40b2c0b9270599c7b68bf--3444364193.jpg"},
+{"key":"APP", "title":"APP调试","pic":"http://cdn-ali-img-shstaticbz.shanhutech.cn/bizhi/staticwp/202112/84c6d69bc6e40b2c0b9270599c7b68bf--3444364193.jpg"},
 {"key":"网页","title":"网页调试","pic":"http://cdn-ali-img-staticbz.shanhutech.cn/bizhi/staticwp/201606/22cc5dc67e9892c571ec545924d05b82.jpg"},
 {"key":"采集","title":"采集调试","pic":"http://cdn-ali-img-shstaticbz.shanhutech.cn/bizhi/staticwp/202108/a189caeeae097f3e0691d5efe2615bf8--1006726213.jpg"},
 {"key":"直播","title":"直播调试","pic":"http://cdn-ali-img-shstaticbz.shanhutech.cn/bizhi/staticwp/202101/0e0de2e6ae3d3e8ea600f48db315669e--263726006.jpg"},
@@ -37,7 +37,7 @@
 */
 //第三套
 /*
-{"key":"APP","title":"主页","pic":"https://pic.netbian.com/uploads/allimg/220315/120647-1647317207d3ed.jpg"},
+{"key":"APP", "title":"主页","pic":"https://pic.netbian.com/uploads/allimg/220315/120647-1647317207d3ed.jpg"},
 {"key":"网页","title":"自定","pic":"https://pic.netbian.com/uploads/allimg/220712/232420-16576394601846.jpg"},
 {"key":"采集","title":"采集","pic":"https://pic.netbian.com/uploads/allimg/220330/003346-16485716262167.jpg"},
 {"key":"直播","title":"电视","pic":"https://pic.netbian.com/uploads/allimg/190916/110446-1568603086ff1f.jpg"},
@@ -48,7 +48,7 @@
 */
 //第四套
 /*
-{"key":"APP","title":"主页","pic":"http://css.lc/api.php"},
+{"key":"APP", "title":"主页","pic":"http://css.lc/api.php"},
 {"key":"网页","title":"自定","pic":"http://css.lc/api.php"},
 {"key":"采集","title":"采集","pic":"http://css.lc/api.php"},
 {"key":"直播","title":"直播","pic":"http://css.lc/api.php"},
@@ -58,7 +58,7 @@
 */
 //第五套
 /*
-{"key":"APP","title":"主页点播","pic":"https://image.api.losfer.cn/view.php/b99b7395bcd5f0e6ff2a2d3d9c3a9721.png"},
+{"key":"APP", "title":"主页点播","pic":"https://image.api.losfer.cn/view.php/b99b7395bcd5f0e6ff2a2d3d9c3a9721.png"},
 {"key":"网页","title":"自定放映","pic":"https://image.api.losfer.cn/view.php/33fb10e02cf14409c31169275c4734d8.png"},
 {"key":"采集","title":"采集播放","pic":"https://image.api.losfer.cn/view.php/702b09e81f36cdf43713a211af4b8016.png"},
 {"key":"直播","title":"电视直播","pic":"https://image.api.losfer.cn/view.php/86b392e6f4d0bd3497b04a3bd59b7cb1.png"},
@@ -66,10 +66,10 @@
 {"key":"收藏","title":"个人收藏","pic":"https://image.api.losfer.cn/view.php/59e37e288f053d20f8fea000c25e5827.png"},
 {"key":"推送","title":"远程推送","pic":"https://image.api.losfer.cn/view.php/4ddddcced6106783148609a8812b60d7.png"},
 {"key":"轮播","title":"功能待定","pic":"https://image.api.losfer.cn/view.php/b6dc357aae43546fe4143bf25bf5f787.png"}
-*/
-//第六套
 
-{"key":"APP","title":"主页点播","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/zy.png"},
+//第六套
+/*
+{"key":"APP", "title":"主页点播","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/zy.png"},
 {"key":"网页","title":"自定放映","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/zd.png"},
 {"key":"采集","title":"采集播放","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cj.png"},
 {"key":"直播","title":"电视直播","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/zb.png"},
@@ -77,6 +77,17 @@
 {"key":"收藏","title":"个人收藏","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/sc.png"},
 {"key":"推送","title":"远程推送","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.png"},
 {"key":"轮播","title":"功能待定","pic":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/dd.png"}
+*/
+//第七套
+
+{"key":"APP", "title":"主页点播","pic":"https://s1.ax1x.com/2022/08/15/vdvlLD.png"},
+{"key":"网页","title":"自定放映","pic":"https://s1.ax1x.com/2022/08/15/vdvcYn.png"},
+{"key":"采集","title":"采集播放","pic":"https://s1.ax1x.com/2022/08/15/vdvWlV.png"},
+{"key":"直播","title":"电视直播","pic":"https://s1.ax1x.com/2022/08/15/vdvfyT.png"},
+{"key":"历史","title":"观看历史","pic":"https://s1.ax1x.com/2022/08/15/vdvIw4.png"},
+{"key":"收藏","title":"个人收藏","pic":"https://s1.ax1x.com/2022/08/15/vdvxmD.png"},
+{"key":"推送","title":"远程推送","pic":"https://s1.ax1x.com/2022/08/15/vdx9kd.png"},
+{"key":"轮播","title":"功能待定","pic":"https://s1.ax1x.com/2022/08/15/vdxZnS.png"}
 
 ],
 
