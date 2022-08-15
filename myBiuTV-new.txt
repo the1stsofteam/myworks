@@ -56,6 +56,17 @@
 {"key":"收藏","title":"收藏","pic":"http://css.lc/api.php"}
 {"key":"待添加","title":"待增","pic":"http://css.lc/api.php"}
 */
+//第五套
+/*
+{"key":"APP","title":"主页点播","pic":"https://image.api.losfer.cn/view.php/b99b7395bcd5f0e6ff2a2d3d9c3a9721.png"},
+{"key":"网页","title":"自定放映","pic":"https://image.api.losfer.cn/view.php/33fb10e02cf14409c31169275c4734d8.png"},
+{"key":"采集","title":"采集播放","pic":"https://image.api.losfer.cn/view.php/702b09e81f36cdf43713a211af4b8016.png"},
+{"key":"直播","title":"电视直播","pic":"https://image.api.losfer.cn/view.php/86b392e6f4d0bd3497b04a3bd59b7cb1.png"},
+{"key":"历史","title":"观看历史","pic":"https://image.api.losfer.cn/view.php/3b5be092d0296aaa9ffe815aef5dfd4f.png"},
+{"key":"收藏","title":"个人收藏","pic":"https://image.api.losfer.cn/view.php/59e37e288f053d20f8fea000c25e5827.png"},
+{"key":"推送","title":"远程推送","pic":"https://image.api.losfer.cn/view.php/4ddddcced6106783148609a8812b60d7.png"},
+{"key":"轮播","title":"功能待定","pic":"https://image.api.losfer.cn/view.php/b6dc357aae43546fe4143bf25bf5f787.png"}
+*/
 ],
 
 //填写APP接口，支持以下5种接口格式。
