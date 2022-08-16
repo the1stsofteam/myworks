@@ -14,7 +14,7 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 "Home": [
 //第八套
-/*
+
 {"key":"APP", "title":"主页点播","pic":"https://i.imgtg.com/2022/08/15/KqQPD.png"},
 {"key":"网页","title":"自定放映","pic":"https://i.imgtg.com/2022/08/15/KqS9F.png"},
 {"key":"采集","title":"采集播放","pic":"https://i.imgtg.com/2022/08/15/KqcT6.png"},
@@ -23,9 +23,9 @@
 {"key":"收藏","title":"个人收藏","pic":"https://i.imgtg.com/2022/08/15/KqYOl.png"},
 {"key":"推送","title":"远程推送","pic":"https://i.imgtg.com/2022/08/15/KqfNg.png"},
 {"key":"轮播","title":"功能待定","pic":"https://i.imgtg.com/2022/08/15/KqlEB.png"}
-*/
-//第九套
 
+//第九套
+/*
 {"key":"APP", "title":"主页点播","pic":"http://1.117.152.239:39000/tupian.php?text=主页"},
 {"key":"网页","title":"自定放映","pic":"http://1.117.152.239:39000/tupian.php?text=自定"},
 {"key":"采集","title":"采集播放","pic":"http://1.117.152.239:39000/tupian.php?text=采集"},
@@ -34,7 +34,7 @@
 {"key":"收藏","title":"我的收藏","pic":"http://1.117.152.239:39000/tupian.php?text=收藏"},
 {"key":"推送","title":"远程推送","pic":"http://1.117.152.239:39000/tupian.php?text=推送"},
 {"key":"轮播","title":"功能待定","pic":"http://1.117.152.239:39000/tupian.php?text=待定"}
-
+*/
 ],
 
 //填写APP接口，支持以下5种接口格式。
