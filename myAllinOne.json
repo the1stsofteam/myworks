@@ -134,7 +134,7 @@
     {"key":"YiSo(ts)","name":"易搜(ts)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;8481717fcdfae2e4a375219222c32358"},
     {"key":"AliPS(ts)","name":"盘搜(ts)","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;8481717fcdfae2e4a375219222c32358"},
     {"key":"Zxzj(ts)","name":"在线(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;8481717fcdfae2e4a375219222c32358"},
-    {"key":"push_agent(ts)(ts)","name":"PushAgent(ts)","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+    {"key":"push_agent(ts)","name":"PushAgent(ts)","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;8481717fcdfae2e4a375219222c32358"},
 //fm(20221224)
     {
       "key": "AList(fm)",
