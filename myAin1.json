@@ -26,11 +26,11 @@
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;97ee205764c3c737804f48f97b3f7be6"
 ///jarMD5(ts):97ee205764c3c737804f48f97b3f7be6
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"
-///jarMD5(cns):269bb1cc39530d302c080dea2eb50171
+#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"
+///jarMD5(cns):be427ef811e42cdd7fdf234860b6fdae
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
-///jarMD5(fm):945b391d7430796229f6d5309037abeb
+#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+///jarMD5(fm):b6cec380ddab899d275cf2fec2ed676a
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;f47cb3ea66749be3afff738746182cf8"
 ///jarMD5(pd):f47cb3ea66749be3afff738746182cf8
@@ -44,7 +44,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230101-b
+#20230104-a
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;48755693eb7b7b30f5753d8cdcdcba35",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -79,9 +79,9 @@
 ],
 */
 "sites":[
-//vQiaoji(20221222)
+//vQiaoji(20230104)
 {"key":"YQK_spider(qj)","name":"一起看TV(qj)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
-{"key":"Tutu_spider(qj)","name":"图图影视(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
+{"key":"Tutu_spider","name":"图图影视","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":"http://api.tt58.tv/config/custom_spider.jar"},
 {"key":"百影视频(qj)","name":"百影视频(qj)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
 {"key":"NoSearch_Bdys_spider(qj)","name":"哔滴影视(qj)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
 {"key":"NoSearch_csp_DiDuan(qj)","name":"低端影视(qj)","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
@@ -142,77 +142,79 @@
     {"key":"AliPS(ts)","name":"盘搜(ts)","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;97ee205764c3c737804f48f97b3f7be6"},
     {"key":"Zxzj(ts)","name":"在线(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;97ee205764c3c737804f48f97b3f7be6"},
     {"key":"push_agent(ts)","name":"PushAgent(ts)","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;97ee205764c3c737804f48f97b3f7be6"},
-//cns(20221225)
+//cns(20230104)
 //xBPQ系列
-{"key":"csp_xBPQ_360影视(cns)","name":"360影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/360影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_LIBVIO(cns)","name":"LIBVIO(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/LIBVIO.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_VOFLIX(cns)","name":"VOFLIX(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/VOFLIX.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_皮皮泡(cns)","name":"皮皮泡(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/皮皮泡.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_1080在线(cns)","name":"1080在线(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/1080在线.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_在线之家(cns)","name":"在线之家(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/在线之家.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_厂长资源(cns)","name":"厂长资源(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/厂长资源.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_神马影院(cns)","name":"神马影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/神马影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_FreeOK(cns)","name":"FreeOK(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/FreeOK.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_双十电影(cns)","name":"双十电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/双十电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_番茄影视(cns)","name":"番茄影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/番茄影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_蓝光影院(cns)","name":"蓝光影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/蓝光影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_热播库(cns)","name":"热播库(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/热播库.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_555电影(cns)","name":"555电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/555电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_视觉影院(cns)","name":"视觉影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/视觉影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_溪谷影视(cns)","name":"溪谷影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/溪谷影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_HDIK(cns)","name":"HDIK(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/HDIK.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_饭团影视(cns)","name":"饭团影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/饭团影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_52看剧(cns)","name":"52看剧(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/52看剧.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_核桃影院(cns)","name":"核桃影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/核桃影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_莫扎兔(cns)","name":"莫扎兔(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/莫扎兔.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_胖虎影视(cns)","name":"胖虎影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/胖虎影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_COKEMV(cns)","name":"COKEMV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/COKEMV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_鸭奈飞(cns)","name":"鸭奈飞(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/鸭奈飞.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_耐看点播(cns)","name":"耐看点播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/耐看点播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_干饭影视(cns)","name":"干饭影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/干饭影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_巨人影院(cns)","name":"巨人影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/巨人影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_快看影视(cns)","name":"快看影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/快看影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_追剧达人(cns)","name":"追剧达人(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/追剧达人.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_23影视(cns)","name":"23影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/23影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_爱看影视(cns)","name":"爱看影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/爱看影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_乐猪TV(cns)","name":"乐猪TV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/乐猪TV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_城市电影(cns)","name":"城市电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/城市电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_农民影视(cns)","name":"农民影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/农民影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_188影视(cns)","name":"188影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/188影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_真不卡影院(cns)","name":"真不卡影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/真不卡影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_诺讯影视(cns)","name":"诺讯影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/诺讯影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_凌云影视(cns)","name":"凌云影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/凌云影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_TVB云播(cns)","name":"TVB云播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/TVB云播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_石榴电影(cns)","name":"石榴电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/石榴电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_落攻阁(cns)","name":"落攻阁(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/落攻阁.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_吼吼(cns)","name":"吼吼(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/吼吼.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_动漫巴士(cns)","name":"动漫巴士(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/动漫巴士.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_看一看影视(cns)","name":"看一看影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/看一看影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"打驴动漫(cns)","name":"打驴动漫(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/打驴动漫.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"奇优影院(cns)","name":"奇优影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/奇优影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"98影院(cns)","name":"98影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/98影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_影视工场(cns)","name":"影视工场(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/影视工场.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_黑洞网(cns)","name":"黑洞网(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/黑洞网.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_RENPE(cns)","name":"RENPE(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/RENPE.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_冷曦影视(cns)","name":"冷曦影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/冷曦影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_创意影视(cns)","name":"创意影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/创意影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_瓜皮TV(cns)","name":"瓜皮TV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/瓜皮TV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_NikeTV(cns)","name":"NikeTV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/NikeTV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_爱酷影视(cns)","name":"爱酷影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/爱酷影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_APP影院(cns)","name":"APP影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/APP影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_极品影视(cns)","name":"极品影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/极品影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_素白白影视(cns)","name":"素白白影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/素白白影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_疯狗电影(cns)","name":"疯狗电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/疯狗电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_255TV影视(cns)","name":"255TV影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/255TV影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_低端影视(cns)","name":"低端影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"click":"ddys.tv;.vjs-big-play-button","ext":"https://tvbox.cainisi.cf/xBPQ/低端影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_牛马TV(cns)","name":"牛马TV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/牛马TV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_剧白白(cns)","name":"剧白白(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/剧白白.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_喵喵电影(cns)","name":"喵喵电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/喵喵电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//{"key":"csp_xBPQ_Auete(cns)","name":"Auete(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/Auete.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_追剧啦(cns)","name":"追剧啦(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/追剧啦.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_短视频(cns)","name":"短视频(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/短视频.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-{"key":"csp_xBPQ_电视直播(cns)","name":"电视直播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/电视直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;269bb1cc39530d302c080dea2eb50171"},
-//fm(20221224)
+{"key":"csp_xBPQ_360影视(cns)","name":"360影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/360影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_LIBVIO(cns)","name":"LIBVIO(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/LIBVIO.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_VOFLIX(cns)","name":"VOFLIX(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/VOFLIX.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_皮皮泡(cns)","name":"皮皮泡(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/皮皮泡.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_1080在线(cns)","name":"1080在线(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/1080在线.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_在线之家(cns)","name":"在线之家(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/在线之家.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_厂长资源(cns)","name":"厂长资源(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/厂长资源.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_神马影院(cns)","name":"神马影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/神马影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_FreeOK(cns)","name":"FreeOK(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/FreeOK.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_双十电影(cns)","name":"双十电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/双十电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_番茄影视(cns)","name":"番茄影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/番茄影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_蓝光影院(cns)","name":"蓝光影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/蓝光影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_热播库(cns)","name":"热播库(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/热播库.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_555电影(cns)","name":"555电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/555电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_视觉影院(cns)","name":"视觉影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/视觉影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_溪谷影视(cns)","name":"溪谷影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/溪谷影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_HDIK(cns)","name":"HDIK(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/HDIK.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_饭团影视(cns)","name":"饭团影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/饭团影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_52看剧(cns)","name":"52看剧(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/52看剧.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_核桃影院(cns)","name":"核桃影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/核桃影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_莫扎兔(cns)","name":"莫扎兔(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/莫扎兔.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_胖虎影视(cns)","name":"胖虎影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/胖虎影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_COKEMV(cns)","name":"COKEMV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/COKEMV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_鸭奈飞(cns)","name":"鸭奈飞(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/鸭奈飞.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_耐看点播(cns)","name":"耐看点播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/耐看点播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_干饭影视(cns)","name":"干饭影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/干饭影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_巨人影院(cns)","name":"巨人影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/巨人影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_快看影视(cns)","name":"快看影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/快看影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_追剧达人(cns)","name":"追剧达人(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/追剧达人.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_23影视(cns)","name":"23影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/23影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_爱看影视(cns)","name":"爱看影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/爱看影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_乐猪TV(cns)","name":"乐猪TV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/乐猪TV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_城市电影(cns)","name":"城市电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/城市电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_农民影视(cns)","name":"农民影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/农民影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_188影视(cns)","name":"188影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/188影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_真不卡影院(cns)","name":"真不卡影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/真不卡影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_诺讯影视(cns)","name":"诺讯影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/诺讯影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_凌云影视(cns)","name":"凌云影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/凌云影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_TVB云播(cns)","name":"TVB云播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/TVB云播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_石榴电影(cns)","name":"石榴电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/石榴电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_落攻阁(cns)","name":"落攻阁(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/落攻阁.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_吼吼(cns)","name":"吼吼(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/吼吼.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_动漫巴士(cns)","name":"动漫巴士(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/动漫巴士.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_看一看影视(cns)","name":"看一看影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/看一看影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"打驴动漫(cns)","name":"打驴动漫(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/打驴动漫.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"奇优影院(cns)","name":"奇优影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/奇优影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"98影院(cns)","name":"98影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/98影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_影视工场(cns)","name":"影视工场(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/影视工场.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_黑洞网(cns)","name":"黑洞网(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/黑洞网.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_RENPE(cns)","name":"RENPE(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/RENPE.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_冷曦影视(cns)","name":"冷曦影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/冷曦影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_创意影视(cns)","name":"创意影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/创意影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_瓜皮TV(cns)","name":"瓜皮TV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/瓜皮TV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_NikeTV(cns)","name":"NikeTV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/NikeTV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_爱酷影视(cns)","name":"爱酷影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/爱酷影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_APP影院(cns)","name":"APP影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/APP影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_极品影视(cns)","name":"极品影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/极品影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_素白白影视(cns)","name":"素白白影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/素白白影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_疯狗电影(cns)","name":"疯狗电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/疯狗电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_255TV影视(cns)","name":"255TV影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/255TV影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_低端影视(cns)","name":"低端影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"click":"ddys.tv;.vjs-big-play-button","ext":"https://tvbox.cainisi.cf/xBPQ/低端影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_牛马TV(cns)","name":"牛马TV(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/牛马TV.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_剧白白(cns)","name":"剧白白(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/剧白白.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_喵喵电影(cns)","name":"喵喵电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/喵喵电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//{"key":"csp_xBPQ_Auete(cns)","name":"Auete(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/Auete.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_追剧啦(cns)","name":"追剧啦(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/追剧啦.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_巨人影院","name":"巨人影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/巨人影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"霹雳影视","name":"霹雳影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/霹雳影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_短视频(cns)","name":"短视频(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/短视频.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+{"key":"csp_xBPQ_电视直播(cns)","name":"电视直播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/电视直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
+//fm(20230104)
     {
       "key": "AList(fm)",
       "name": "AList(fm)",
@@ -221,7 +223,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "哔哩(fm)",
@@ -231,7 +233,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "泥巴(fm)",
@@ -240,7 +242,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "快播(fm)",
@@ -297,7 +299,7 @@
       "api": "csp_Ying",
       "searchable": 1,
       "filterable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "巴士(fm)",
@@ -306,7 +308,7 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "filterable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "異界(fm)",
@@ -315,7 +317,7 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "filterable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "紙條(fm)",
@@ -325,7 +327,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/tok",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "易搜(fm)",
@@ -335,7 +337,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "盤搜(fm)",
@@ -345,7 +347,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "UP雲搜(fm)",
@@ -355,7 +357,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "找資源(fm)",
@@ -365,7 +367,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
     {
       "key": "push_agent(fm)",
@@ -375,7 +377,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;945b391d7430796229f6d5309037abeb"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
     },
 //pd(20221224)
 {"key":"js豆瓣(pd)","name":"🐼┃豆瓣┃D首页","type":3,"api":"http://id.ganggang.live:63/js/drpy2.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
