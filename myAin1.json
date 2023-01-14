@@ -583,14 +583,14 @@
 {"key":"高中(pd)","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;aeac1ff0f843fc8cf45d730e6f7b6c5e"},
 
 {"key":"push_agent(pd)","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;aeac1ff0f843fc8cf45d730e6f7b6c5e"},
-//fy(20230107)
+//fy(20230114)
 {"key":"js豆瓣(fy)","name":"🅱豆瓣┃推荐(fy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"csp_Alist1(fy)","name":"🅿Alist网盘(fy)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/json/alist.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_Alist2(fy)","name":"🅿小丫搜索(fy)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_Bili(fy)","name":"🅱哔哩合集(fy)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/json/bilibili.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_Biliych(fy)","name":"🅱看演唱会(fy)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.饭太硬.ga/x/json/biliych.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_kuaikan(fy)","name":"👀快看┃SP(fy)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
-{"key":"csp_AppTT(fy)","name":"🐰图图┃SP(fy)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9911","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
+{"key":"csp_AppTT(fy)","name":"🐰图图┃SP(fy)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_BuLei(fy)","name":"💢布雷┃SP(fy)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_fant(fy)","name":"🍙饭团┃SP(fy)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"csp_Vofl(fy)","name":"🎈Voflix┃SP(fy)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
@@ -2043,9 +2043,10 @@
  {"name":"风起兖州","type": 0,"url": "http://jx.gbxy.net.cn/?url="},
     
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-//fy(20221226)
-{"name":"全部","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="},
-{"name":"来自","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+//fy(20230114)
+{"name":"全部","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url="},
+{"name":"自","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url="},
+{"name":"来","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"网络","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"💋So丶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
