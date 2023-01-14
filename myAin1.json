@@ -17,8 +17,8 @@
 #雷蒙lem
 //https://agit.ai/n3rd/N3RD/src/branch/master/JN/lem.json
 //////////////////////////////////////////////
-#"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;a10e3b3a27290ecf2609f1db9c87497d",
-///jarMD5(lem):a10e3b3a27290ecf2609f1db9c87497d
+#"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;679630950df41eabcace5fcb72166a97",
+///jarMD5(lem):679630950df41eabcace5fcb72166a97
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"
 ///jarMD5(qj):fc09f6d5f29525e5b5d07e92afb5be26
@@ -46,7 +46,7 @@
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
 #20230114-a
 {
-"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;a10e3b3a27290ecf2609f1db9c87497d",
+"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;679630950df41eabcace5fcb72166a97",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //巧技vQiaoji
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
