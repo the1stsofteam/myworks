@@ -659,7 +659,7 @@
 {"key":"csp_trj(fy)","name":"🛫唐人街┃墙外(fy)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;8fa5d0e7cca3f9373d200b90d5808e50"},
 {"key":"aa","name":"接口导航 https://饭太硬.ga ","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"bb","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0},
-//lem(20230107)
+//lem(20230114)
 //Lem缝合包
 
 {"key":"公告1","name": "📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/ANNOUNCEMENT.json"},
@@ -716,7 +716,6 @@
 {"key":"csp_360","name":"📺Lem专属 360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_apple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_yema","name":"🐎Lem专属 野马(APPYS)","type":"3","api":"csp_AppYsV2","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://v.yemays.tk/api.php/app/"},
 {"key":"csp_Wmkk","name":"👁‍Lem专属 完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_3EDY","name":"3️⃣Lem专属 3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_mjxq","name":"🌍Lem专属 美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
