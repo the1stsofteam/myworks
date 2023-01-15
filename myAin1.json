@@ -113,7 +113,7 @@
 {"key":"UPanSo(qj)","name":"优盘搜(qj)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"f09e62df298c4567ade35d8ce1d187d6","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
 {"key":"FindZY(qj)","name":"找资源(qj)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"f09e62df298c4567ade35d8ce1d187d6","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
 {"key":"push_agent(qj)","name":"推送(qj)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"f09e62df298c4567ade35d8ce1d187d6","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
-//ts(20230108)
+//ts(20230114)
     {"key":"世界杯(ts)","name":"一起看(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;b46813094ae8074ad90e9fe9cc2ed3fa"},
     {"key":"Tian(ts)","name":"天天(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;b46813094ae8074ad90e9fe9cc2ed3fa"},
     {"key":"Yanet(ts)","name":"鸭奶飞(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;b46813094ae8074ad90e9fe9cc2ed3fa"},
@@ -961,6 +961,8 @@
 //道长DRPY-JS规则
 
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
+{"key":"drjs_大豆影视","name":"👺Lem专属 大豆影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/大豆影视.js"},
+{"key":"drjs_午夜影视","name":"👺Lem专属 午夜影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/午夜影视.js"},
 {"key":"drjs_快看影视","name":"👺Lem专属 快看影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/快看影视.js"},
 {"key":"drjs_美剧网","name":"👺Lem专属 美剧网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/美剧网.js"},
 {"key":"drjs_爱看剧影视","name":"👺Lem专属 爱看剧影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/爱看剧影视.js"},
