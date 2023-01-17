@@ -44,7 +44,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230116-a
+#20230117-a
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;679630950df41eabcace5fcb72166a97",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -82,7 +82,7 @@
 "sites":[
 //vQiaoji(20230111)
 {"key":"YQK_spider(qj)","name":"一起看TV(qj)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
-{"key":"Tutu_spider(qj)","name":"图图影视(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
+{"key":"Tutu_spider(qj)","name":"图图影视(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
 {"key":"百影视频(qj)","name":"百影视频(qj)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
 {"key":"NoSearch_Bdys_spider(qj)","name":"哔滴影视(qj)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
 {"key":"NoSearch_csp_DiDuan(qj)","name":"低端影视(qj)","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26"},
