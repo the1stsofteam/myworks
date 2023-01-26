@@ -145,10 +145,10 @@
     {"key":"AliPS(ts)","name":"盘搜(ts)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
     {"key":"Zxzj(ts)","name":"在线(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
     {"key":"push_agent(ts)","name":"PushAgent(ts)","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
-//cns(20230114)
+//cns(20230125)
 //xBPQ系列
 {"key":"csp_xBPQ_360影视(cns)","name":"360影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/360影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
-{"key":"csp_xBPQ_LIBVIO(cns)","name":"LIBVIO(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/LIBVIO.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
+//{"key":"csp_xBPQ_LIBVIO(cns)","name":"LIBVIO(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/LIBVIO.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_VOFLIX(cns)","name":"VOFLIX(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/VOFLIX.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 //{"key":"csp_xBPQ_皮皮泡(cns)","name":"皮皮泡(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/皮皮泡.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 //{"key":"csp_xBPQ_1080在线(cns)","name":"1080在线(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/1080在线.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
@@ -184,7 +184,7 @@
 {"key":"csp_xBPQ_188影视(cns)","name":"188影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/188影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_真不卡影院(cns)","name":"真不卡影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/真不卡影院.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_诺讯影视(cns)","name":"诺讯影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/诺讯影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
-{"key":"csp_xBPQ_凌云影视(cns)","name":"凌云影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/凌云影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
+//{"key":"csp_xBPQ_凌云影视(cns)","name":"凌云影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/凌云影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_TVB云播(cns)","name":"TVB云播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/TVB云播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 //{"key":"csp_xBPQ_石榴电影(cns)","name":"石榴电影(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/石榴电影.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_落攻阁(cns)","name":"落攻阁(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/落攻阁.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
@@ -2047,9 +2047,10 @@
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 //ts(20230121)
     {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
-//cns(20230114)
+//cns(20230125)
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"云星解析","type":1,"url":"https://chaloli.cn/api/?key=454af70ae4c2f8369527a16413ed27ba&url=","header":{"User-Agent":"Mozilla/5.0"}},
 
