@@ -35,8 +35,8 @@
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
 ///jarMD5(xyq):9709252cc3ca4b015a2f86c128a06db3
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
-///jarMD5(fm):e5b681f675bb3bde7f94196f60235829
+#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
+///jarMD5(fm):8442882c682a5045ef214f42540ab28d
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;ee39d6223759e1b9683efd45d15f9134"
 ///jarMD5(pd):ee39d6223759e1b9683efd45d15f9134
@@ -470,7 +470,7 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "哔哩(fm)",
@@ -481,7 +481,7 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "泥巴(fm)",
@@ -491,7 +491,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "快播(fm)",
@@ -551,7 +551,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "巴士(fm)",
@@ -561,7 +561,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "異界(fm)",
@@ -571,7 +571,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "紙條(fm)",
@@ -582,7 +582,7 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "易搜(fm)",
@@ -593,7 +593,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "盤搜(fm)",
@@ -604,7 +604,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "UP雲搜(fm)",
@@ -615,7 +615,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "找資源(fm)",
@@ -626,7 +626,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "Live(fm)",
@@ -637,7 +637,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "2000",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
     {
       "key": "push_agent(fm)",
@@ -648,7 +648,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;8442882c682a5045ef214f42540ab28d"
     },
 //pd(20230204)
 
