@@ -50,7 +50,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230208-a
+#20230208-b
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;ac7480b9febff3e71a04f548e05e8343",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;ac7480b9febff3e71a04f548e05e8343",
@@ -153,7 +153,7 @@
     {"key":"AliPS(ts)","name":"盘搜(ts)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
     {"key":"Zxzj(ts)","name":"在线(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
     {"key":"push_agent(ts)","name":"PushAgent(ts)","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/ts.jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
-//cns(20230207)
+//cns(20230208)
 //xBPQ系列
 {"key":"csp_xBPQ_360影视(cns)","name":"360影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/360影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 //{"key":"csp_xBPQ_LIBVIO(cns)","name":"LIBVIO(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/LIBVIO.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
@@ -229,6 +229,7 @@
 {"key":"剧情网(cns)","name":"剧情网(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/剧情网.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 //{"key":"佑尘云影视(cns)","name":"佑尘云影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/佑尘云影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"8K影视(cns)","name":"8K影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/8K影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
+//{"key":"测试(cns)","name":"测试(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/测试.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 
 
 {"key":"csp_xBPQ_短视频(cns)","name":"短视频(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/短视频.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
@@ -2400,9 +2401,9 @@
 //cns(20230208)
 //{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
-//{"name":"星辰云解析①","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=c9ef6da05b27b7529f4d69cee2cecab0&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
+//{"name":"星辰云解析①","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&amp;url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=c9ef6da05b27b7529f4d69cee2cecab0&amp;url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&amp;url=","header":{"User-Agent":"Mozilla/5.0"}},
 
 {
       "name": "parwix稳定",
