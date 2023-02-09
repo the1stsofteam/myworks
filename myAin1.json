@@ -35,8 +35,8 @@
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
 ///jarMD5(xyq):9709252cc3ca4b015a2f86c128a06db3
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
-///jarMD5(fm):ff85cd0428496acedc5c8a4599583862
+#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
+///jarMD5(fm):5f350e3b859432e66db59eebc3ccce78
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;ee39d6223759e1b9683efd45d15f9134"
 ///jarMD5(pd):ee39d6223759e1b9683efd45d15f9134
@@ -471,7 +471,7 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "哔哩(fm)",
@@ -482,7 +482,7 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "泥巴(fm)",
@@ -492,7 +492,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "快播(fm)",
@@ -552,7 +552,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "巴士(fm)",
@@ -562,7 +562,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "異界(fm)",
@@ -572,7 +572,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "紙條(fm)",
@@ -583,7 +583,7 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "易搜(fm)",
@@ -594,7 +594,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "盤搜(fm)",
@@ -605,7 +605,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "UP雲搜(fm)",
@@ -616,7 +616,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "找資源(fm)",
@@ -627,7 +627,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "Live(fm)",
@@ -638,7 +638,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "2000",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
     {
       "key": "push_agent(fm)",
@@ -649,7 +649,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;ff85cd0428496acedc5c8a4599583862"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
     },
 //pd(20230208)
 
