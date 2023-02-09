@@ -32,8 +32,8 @@
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
 ///jarMD5(cns):ee7ddfc43f83421abf8cccd11c9c54c5
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
-///jarMD5(xyq):9709252cc3ca4b015a2f86c128a06db3
+#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
+///jarMD5(xyq):fecccabf913bbcf7b644a03cc9060090
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78"
 ///jarMD5(fm):5f350e3b859432e66db59eebc3ccce78
@@ -250,7 +250,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/HDmoli.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_AB影院(xyq)",
@@ -261,7 +261,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/AB影院.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_鸭奈飞影视(xyq)",
@@ -272,7 +272,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/鸭奈飞影视.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_爱看影视(xyq)",
@@ -283,7 +283,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/爱看影视.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_追剧达人(xyq)",
@@ -294,7 +294,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/追剧达人.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_蓝光影院(xyq)",
@@ -305,7 +305,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/蓝光影院.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_在线之家(xyq)",
@@ -316,7 +316,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/在线之家.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_农民影视(xyq)",
@@ -327,7 +327,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/农民影视.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_乐猪影视(xyq)",
@@ -338,7 +338,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/乐猪TV.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_布蕾蓝光(xyq)",
@@ -349,7 +349,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/布蕾蓝光.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_素白白影视(xyq)",
@@ -360,7 +360,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/素白白影视.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_厂长影视(xyq)",
@@ -371,7 +371,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/厂长影视.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_双十电影(xyq)",
@@ -382,7 +382,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/双十电影.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_柠檬TV(xyq)",
@@ -393,7 +393,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/柠檬TV.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_无插件直播(xyq)",
@@ -404,7 +404,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/无插件直播.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQHiker_虎牙直播(xyq)",
@@ -415,7 +415,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/虎牙直播.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQBiu_网易CC直播(xyq)",
@@ -426,7 +426,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://codeberg.org/the1stsofteam/XYQBiu/raw/branch/master/网易CC直播.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQBiu_310直播(xyq)",
@@ -437,7 +437,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://codeberg.org/the1stsofteam/XYQBiu/raw/branch/master/310直播.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQBiu_抓饭直播(xyq)",
@@ -448,7 +448,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://codeberg.org/the1stsofteam/XYQBiu/raw/branch/master/抓饭直播.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
         {
             "key": "csp_XYQBiu_斗鱼直播(xyq)",
@@ -459,7 +459,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://codeberg.org/the1stsofteam/XYQBiu/raw/branch/master/斗鱼直播.json",
-"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;9709252cc3ca4b015a2f86c128a06db3"
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;fecccabf913bbcf7b644a03cc9060090"
         },
 //fm(20230208)
     {
