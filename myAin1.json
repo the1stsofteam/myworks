@@ -50,7 +50,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230210-a
+#20230211-a
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;ac7480b9febff3e71a04f548e05e8343",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;ac7480b9febff3e71a04f548e05e8343",
@@ -936,7 +936,7 @@
 {"key":"高中教育(fy)","name":"📚高中课堂(fy)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/高中课堂.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;3af7eaf917576c6392ce1a07981895ef"},
 {"key":"bb(fy)","name":"导航  http://饭太硬.ga (fy)","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc(fy)","name":"请勿相信视频中任何广告(fy)","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-//lem(20230209)
+//lem(20230211)
 // ⇩⇩ jar包内东东 ⇩⇩
 
 //Lem缝合包
@@ -957,7 +957,7 @@
 {"key":"csp_Bili","name":"🅱Lem专属 哔哩哔哩(SP)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"csp_Bili_TS","name":"🅱Lem专属 哔哩哔哩(SP)","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 {"key":"csp_AppTT_TS","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
-{"key":"csp_APPTT","name":"🗺Lem专属 图图影视(备用)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+{"key":"csp_APPTT","name":"🗺Lem专属 图图影视(备用)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"Tutu_spider","name":"🗺Lem专属 图图影视(备用二)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
 {"key":"csp_YQK","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_YQK_TS","name":"📺Lem专属 一起看TV(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
@@ -2591,31 +2591,31 @@
 {"name":"去找","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 {"name":"来","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"野","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
-//lem(20230210)
+//lem(20230211)
 //Lem添加
 
-{"name":"🈯BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗H8","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯布蕾","type":0,"url":"https://blbfq.f3322.net/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗91","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈯777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈯BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗CKM","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗CKP","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈶盘古","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯OK","type":0,"url":"https://okjx.cc/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯JSN","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🆗H8","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","switchable":0,"ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🆗91","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯HHH","type":0,"url":"http://hhhhhhhhhhh.cn:99/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶盘古","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈯777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶CKM","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶4K","type":0,"url":"https://jx.4kdv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶私人","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶无名","type":0,"url":"https://www.administratorw.com/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶26db","type":0,"url":"http://vip.26db.cn/b/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹爱解析","type":0,"url":"https://jx.t7g.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈹CKP","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈹8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹全民","type":0,"url":"http://api.wpsseo.cn/jx/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹剖云","type":0,"url":"https://www.pouyun.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
