@@ -230,11 +230,11 @@
 //{"key":"佑尘云影视(cns)","name":"佑尘云影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/佑尘云影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 {"key":"8K影视(cns)","name":"8K影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/8K影视.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 //{"key":"测试(cns)","name":"测试(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/测试.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
-//{"key":"push_agent(cns)","name":"▶┃推送┃磁力(cns)","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋen.php"},
 
 
 {"key":"csp_xBPQ_短视频(cns)","name":"短视频(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/短视频.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
 //{"key":"csp_xBPQ_电视直播(cns)","name":"电视直播(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/电视直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/cns.jar;md5;ee39d6223759e1b9683efd45d15f9134"},
+//{"key":"push_agent(cns)","name":"▶┃推送┃磁力(cns)","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋen.php"},
 
 {"key":"公告(cns)","name":"——————————(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明1(cns)","name":"菜妮丝(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
