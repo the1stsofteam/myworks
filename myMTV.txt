@@ -2111,6 +2111,10 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 经典怀旧,https://epg.112114.xyz/bili/11745204
 24小时经典剧场,https://epg.112114.xyz/bili/2863671
 
+巴不得妈妈警犬巴打,https://epg.112114.xyz/bili/142721
+无头东宫倚天屠龙记洛神,https://epg.112114.xyz/bili/24622261
+风云,http://epg.112114.xyz/douyu/9290755
+
 悬疑破案,http://mmitv.top/pltv/yy.php?id=10425097
 百视通港剧,http://39.135.55.105:6610/PLTV/88888888/224/3221226991/index.m3u8?servicetype=1
 学警出更扫黄先锋潜行狙击忠奸人,http://epg.112114.xyz/douyu/223521
@@ -2123,7 +2127,6 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 鉴证实录读心神探,https://epg.112114.xyz/bili/23170738
 楚汉骄雄九五至尊奸人坚,https://epg.112114.xyz/bili/23656786
 宫心计陀枪师姐,http://epg.112114.xyz/douyu/6241733
-巴不得妈妈警犬巴打,https://epg.112114.xyz/bili/142721
 封神榜94射雕,http://epg.112114.xyz/douyu/338759
 射雕英雄传,http://epg.112114.xyz/douyu/4396972
 天龙八部(1),https://epg.112114.xyz/huya/11352912
@@ -2153,10 +2156,8 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 读心神探(2)陀枪师姐,https://epg.112114.xyz/bili/21733247
 碧血剑云海玉弓缘,https://epg.112114.xyz/bili/22145508
 护花危情警犬巴打超时空男臣,https://epg.112114.xyz/bili/21791019
-无头东宫倚天屠龙记洛神,https://epg.112114.xyz/bili/24622261
 洗冤录(2),https://epg.112114.xyz/bili/5388194
 洗冤录(3),https://epg.112114.xyz/huya/23903130
-风云,http://epg.112114.xyz/douyu/9290755
 小宝与康熙,https://epg.112114.xyz/bili/7182262
 陀枪师姐,https://epg.112114.xyz/bili/21858451
 灵异侦缉档案,https://epg.112114.xyz/bili/1487413
