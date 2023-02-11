@@ -50,7 +50,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230211-b
+#20230212-a
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;ac7480b9febff3e71a04f548e05e8343",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;ac7480b9febff3e71a04f548e05e8343",
@@ -431,7 +431,7 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;384628eab024a2a40a57835d2f0684d8"
     },
-//xyq(20230211)
+//xyq(20230212)
         {"key":"csp_LocalFile(xyq)","name":"💻本地视频(xyq)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
         {"key":"csp_Alist(xyq)","name":"💾Alist(SP)(xyq)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/Alist-xyq.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
         {"key":"Gitcafe(xyq)","name":"📀小纸条(xyq)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋen.php","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
@@ -515,6 +515,7 @@
         {"key": "csp_XYQHiker_FreeOK(xyq)","name":"FreeOK(XYQH)(xyq)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/FreeOK.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
         
         {"key": "csp_XYQHiker_无插件直播(xyq)","name": "🏀无插件直播(XYQH)(xyq)","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/无插件直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
+        {"key": "csp_XYQBiu_88看球(xyq)","name":"88看球(XYQ)(xyq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/the1stsofteam/XYQBiu/raw/branch/master/88看球.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
         {"key": "csp_XYQHiker_l0l直播(xyq)","name":"l0l直播(XYQH)(xyq)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/l0l直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
         {"key": "csp_XYQHiker_虎牙直播(xyq)","name": "🐯虎牙直播(XYQH)(xyq)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://codeberg.org/the1stsofteam/XYQHiker/raw/branch/master/虎牙直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
         {"key": "csp_XYQBiu_网易CC直播(xyq)","name": "🕸网易CC直播(XYQ)(xyq)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://codeberg.org/the1stsofteam/XYQBiu/raw/branch/master/网易CC直播.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;5992f99862970aeb180cb88cce94961c"},
