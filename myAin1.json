@@ -437,7 +437,7 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
-//xyq(20230212)
+//xyq(20230216)
         {"key":"csp_LocalFile(xyq)","name":"💻本地视频(xyq)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"csp_Alist(xyq)","name":"💾Alist(SP)(xyq)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/Alist-xyq.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"Gitcafe(xyq)","name":"📀小纸条(xyq)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋen.php","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
@@ -563,7 +563,7 @@
         {"key":"天堂资源(xyq)","name":"天堂资源(官)(xyq)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"木子看剧(xyq)","name":"木子看剧(官)(xyq)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"忆梦(xyq)","name":"忆梦(官)(xyq)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
-//pd(20230212)
+//pd(20230216)
 
 
 {"key":"js豆瓣(pd)","name":"🐼┃豆瓣┃免费接口，切勿售卖。","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -578,7 +578,6 @@
 {"key":"YQK_spider(pd)","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
 
 {"key" : "Alist1(pd)","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "http://我不是.肥猫.love:63/JS/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
-
 {"key": "Alist2(pd)","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
 
 {"key":"csp_Paper(pd)","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋen.php","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
@@ -600,21 +599,11 @@
 
 {"key":"Kuaikan(pd)","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
 
-{"key":"csp_app_源头(pd)","name":"🐹┃肥猫┃影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
+{"key":"csp_app_源头(pd)","name":"🐈┃肥猫┃影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
 
  {"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
 
-{
-			"key": "NEP(pd)",
-			"name": "🦄┃NEP┃影视",
-			"type": 1,
-			"api": "https://nep.ink/api.php/provide/vod/?ac=list",
-			"playurl":"https://api.nep.ink/json?token=nep&url=",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"
-		},
+
 //{"key": "xxyy(pd)","name": "🦄┃小路┃影视","type":1,"api":"http://xiaolu.shenzhuo.vip:49798/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"
 //],"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;92db9b2513e203a32a01195c4d376f67"},
 
