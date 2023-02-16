@@ -236,7 +236,7 @@
 {"key":"说明2(cns)","name":"https://cainisi.cf(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明3(cns)","name":"免费接口更新维护(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明4(cns)","name":"不要相信视频中的任何广告(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
-//fm(20230208)
+//fm(20230216)
     {
       "key": "AList(fm)",
       "name": "AList(fm)",
@@ -244,7 +244,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -255,7 +255,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -266,7 +266,18 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1,
+      "changeable": 1,
+"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
+    },
+    {
+      "key": "獨播(fm)",
+      "name": "獨播(fm)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
     {
@@ -276,7 +287,7 @@
       "api": "https://www.kuaibozy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 1,
+      "changeable": 1,
       "categories": [
         "动漫",
         "国产剧",
@@ -302,7 +313,7 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 1,
+      "changeable": 1,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -326,7 +337,7 @@
       "api": "csp_Ying",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1,
+      "changeable": 1,
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
     {
@@ -336,7 +347,7 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1,
+      "changeable": 1,
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
     {
@@ -346,7 +357,7 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1,
+      "changeable": 1,
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
     {
@@ -356,7 +367,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -367,7 +378,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -378,7 +389,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -389,7 +400,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -400,7 +411,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -411,7 +422,7 @@
       "api": "csp_Live",
       "searchable": 0,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "2000",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
@@ -422,7 +433,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
 "jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fm.jar;md5;029605ba89c58f14982a8aa1665cbeef"
     },
