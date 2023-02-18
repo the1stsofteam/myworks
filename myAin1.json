@@ -606,7 +606,8 @@
 
 {"key":"csp_app_源头(pd)","name":"🐈┃肥猫┃影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;5761f54ccfe6157e49f2f980f51d26fd"},
 
- {"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;5761f54ccfe6157e49f2f980f51d26fd"},
+ {"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+
 
 //{"key": "xxyy(pd)","name": "🦄┃小路┃影视","type":1,"api":"http://xiaolu.shenzhuo.vip:49798/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"
 //],"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;5761f54ccfe6157e49f2f980f51d26fd"},
