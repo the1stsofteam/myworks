@@ -575,8 +575,8 @@
         {"key":"天堂资源(xyq)","name":"天堂资源(官)(xyq)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"木子看剧(xyq)","name":"木子看剧(官)(xyq)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"忆梦(xyq)","name":"忆梦(官)(xyq)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
-//pd(20230223)
-{"key":"js豆瓣(pd)","name":"🐼┃豆瓣┃免费接口，内置贩卖可耻。","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+//pd(20230224)
+{"key":"js豆瓣(pd)","name":"🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //{"key":"douban(pd)","name":"🐼┃豆瓣┃T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 
@@ -610,9 +610,11 @@
 
 {"key":"Kuaikan(pd)","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
-{"key":"csp_app_源头(pd)","name":"🐈┃肥猫┃影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key":"csp_app_源头(pd)","name":"🐈┃肥猫┃影院","type":1,"playerType":2,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
 
- {"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key": "xxyy(pd)","name": "🦄┃小路┃影院","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["4K专区",]},
+
+ {"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
 
 //{"key": "xxyy(pd)","name": "🦄┃小路┃影视","type":1,"api":"http://xiaolu.shenzhuo.vip:49798/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"
@@ -627,6 +629,13 @@
 
 {"key":"Lezhu(pd)","name":"🐷┃乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
+{"key": "csp_XBPQ秋霞影视(pd)","name": "️🍂┃秋霞┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
+       "分类":"电影$1#连续剧$2#动漫$4#综艺$3",
+       "分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+"跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"三次跳转播放链接": "\"url\"*\"&&\""},"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"
+},
 
 {"key":"csp_apple(pd)","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
@@ -766,6 +775,8 @@
 },
 
 {"key" :"drpy_js_蜻蜓FM(pd)","name" : "📻┃蜻蜓┃收音","type" : 3,"api" :"http://w.g9.pub:66/381203888/lib/drpy.min.js","ext":"http://w.g9.pub:66/381203888/js/蜻蜓FM.js","jar":"http://我不是.肥猫.love:63/Jar/JS.jar;md5;74A24673CC1587FA87EC2D1F43BFA4CB"},
+
+{"key":"csp_Nbys(pd)","name":"✈┃泥巴┃墙外","type": 3,"api": "csp_NiNi","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
 {"key":"csp_trj(pd)","name": "✈┃唐人┃墙外","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
