@@ -19,9 +19,9 @@
 #雷蒙lem
 //https://agit.ai/n3rd/N3RD/src/branch/master/JN/lem.json
 //////////////////////////////////////////////
-#"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;570c9fbb8089ee1200c186a819bc3f31",
-#"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;570c9fbb8089ee1200c186a819bc3f31",
-///jarMD5(lem):570c9fbb8089ee1200c186a819bc3f31
+#"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;230c9ed452fb75ad165b2a8a0ff34e58",
+#"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;230c9ed452fb75ad165b2a8a0ff34e58",
+///jarMD5(lem):230c9ed452fb75ad165b2a8a0ff34e58
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
 ///jarMD5(qj):95566ff667dfc50036c34c20a5daaa8a
@@ -50,10 +50,10 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230223-a
+#20230224-a
 {
-"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;570c9fbb8089ee1200c186a819bc3f31",
-//"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;570c9fbb8089ee1200c186a819bc3f31",
+"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;230c9ed452fb75ad165b2a8a0ff34e58",
+//"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;230c9ed452fb75ad165b2a8a0ff34e58",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //巧技vQiaoji
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
@@ -858,7 +858,7 @@
 {"key":"高中教育(fy)","name":"📚高中课堂(fy)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/高中课堂.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;519ec53b81c1ee070bf75ddb293ab900"},
 {"key":"bb(fy)","name":"导航  http://饭太硬.ga (fy)","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc(fy)","name":"请勿相信视频中任何广告(fy)","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-//lem(20230221)
+//lem(20230224)
 // ⇩⇩ jar包内东东 ⇩⇩
 
 //Lem缝合包
@@ -882,7 +882,7 @@
 //{"key":"csp_Bili_TS","name":"🅱Lem专属 哔哩哔哩(SP)","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 {"key":"csp_APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"csp_AppTT_TS","name":"🗺Lem专属 图图影视(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
-//{"key":"Tutu_spider","name":"🗺Lem专属 图图影视(备用二)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
+{"key":"Tutu_spider","name":"🗺Lem专属 图图影视(备用二)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
 {"key":"csp_YQK","name":"📺Lem专属 一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_YQK_TS","name":"📺Lem专属 一起看TV(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key":"csp_BookYs","name":"📖Lem专属 书影影视(SP)","type":3,"api":"csp_BookYs","searchable":1,"quickSearch":1,"filterable":1},
@@ -918,10 +918,10 @@
 {"key":"csp_Bdys02","name": "📯Lem专属 哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Dy1010","name": "🎉Lem专属 双十电影(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_蓝光影院","name":"💦Lem专属 蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv"},
-{"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
+{"key":"csp_Ysgc","name":"🏭Lem专属 影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 {"key":"csp_Nmys","name":"👨‍🌾Lem专属 农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"},
 {"key":"csp_apple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttwoo","name":"✌Lem专属 2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_棉花影视","name":"☁Lem专属 棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.144.126"},
 {"key":"csp_百影视频","name":"☁Lem专属 百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"csp_NikeTV","name":"✔Lem专属 NikeTV(SP)","type":3,"api":"csp_NikeTV","searchable":1,"quickSearch":1,"filterable":1},
@@ -991,9 +991,9 @@
 
 //搜索
 
-{"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/token"},
-{"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/token"},
-{"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.xn--sss604efuw.ml/token"},
+{"key":"YiSo","name":"😺Lem专属 易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"UpYun","name":"😺Lem专属 云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"push_agent","name":"😺Lem专属 推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key":"UPanSo","name":"😺Lem专属 优盘搜(搜索)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"AliPanSou","name":"🐱Lem专属 盘搜(备用)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"FindZY","name":"😺Lem专属 找资源(备用)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
@@ -1213,6 +1213,13 @@
 
 {"key":"drjs_我的哔哩","name":"👺Lem专属 我的哔哩(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/我的哔哩.js"},
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
+{"key":"drjs_酷6网","name":"👺Lem专属 酷6网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷6网.js"},
+{"key":"drjs_网易公版影像","name":"👺Lem专属 网易公版影像(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/网易公版影像.js"},
+{"key":"drjs_A8音乐","name":"👺Lem专属 A8音乐(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/A8音乐.js"},
+{"key":"drjs_91free","name":"👺Lem专属 91free(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/91free.js"},
+{"key":"drjs_曲奇动漫","name":"👺Lem专属 曲奇动漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/曲奇动漫.js"},
+{"key":"drjs_去看吧","name":"👺Lem专属 去看吧(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/去看吧.js"},
+{"key":"drjs_六度TV","name":"👺Lem专属 六度TV(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/六度TV.js"},
 {"key":"drjs_粤爱看","name":"👺Lem专属 粤爱看(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/粤爱看.js"},
 {"key":"drjs_萌番","name":"👺Lem专属 萌番(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/萌番.js"},
 {"key":"drjs_NT动漫","name":"👺Lem专属 NT动漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/NT动漫.js"},
@@ -2034,7 +2041,7 @@
 {"key":"csp_xb_35ju","name":"🤍Lem专属 星空影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xb_ftcgj","name":"🤍Lem专属 枫糖影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ftcgj.com/{cateId}.html"},
 {"key":"csp_xb_lgyy","name":"🤍Lem专属 蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_ysgc","name":"🤍Lem专属 影视工厂(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html"},
+{"key":"csp_xb_ysgc","name":"🤍Lem专属 影视工厂(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_nullys","name":"🤍Lem专属 null影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_555ys","name":"🤍Lem专属 555影视(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.555dy1.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_达达龟","name":"🤍Lem专属 达达龟(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
@@ -2583,7 +2590,7 @@
 {"name":"我再","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"去","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"找来","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
-//lem(20230221)
+//lem(20230224)
 //Lem添加
 
 {"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}},"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩","leshi","douyin"]},
