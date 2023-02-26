@@ -50,7 +50,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230225-a
+#20230226-a
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;230c9ed452fb75ad165b2a8a0ff34e58",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;230c9ed452fb75ad165b2a8a0ff34e58",
@@ -575,7 +575,7 @@
         {"key":"天堂资源(xyq)","name":"天堂资源(官)(xyq)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"木子看剧(xyq)","name":"木子看剧(官)(xyq)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
         {"key":"忆梦(xyq)","name":"忆梦(官)(xyq)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"},
-//pd(20230224)
+//pd(20230226)
 {"key":"js豆瓣(pd)","name":"🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //{"key":"douban(pd)","name":"🐼┃豆瓣┃T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -610,11 +610,13 @@
 
 {"key":"Kuaikan(pd)","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
-{"key":"csp_app_源头(pd)","name":"🐈┃肥猫┃影院","type":1,"playerType":2,"api":"http://我是.肥猫.love:63/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+{"key":"csp_app_源头(pd)","name":"🐈┃肥猫┃影院","type":1,"playerType":2,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+
+//"playurl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
 
 {"key": "xxyy(pd)","name": "🦄┃小路┃影院","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["4K专区",]},
 
- {"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
+ {"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"},
 
 
 //{"key": "xxyy(pd)","name": "🦄┃小路┃影视","type":1,"api":"http://xiaolu.shenzhuo.vip:49798/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"
@@ -2372,7 +2374,7 @@
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 //ts(20230121)
     {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
-//cns(20230224)
+//cns(20230226)
 //{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"星辰云解析①","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
@@ -2381,7 +2383,7 @@
 {
             "name": "星辰云解析",
             "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
+            "url": "http://player.肥猫.love:9010/json?token=feimao&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2500,7 +2502,7 @@
 
     
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-//pd(20230223)
+//pd(20230226)
 //{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"星辰云解析①","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
@@ -2509,7 +2511,7 @@
 {
             "name": "星辰云解析",
             "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
+            "url": "http://player.肥猫.love:9010/json?token=feimao&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2598,9 +2600,9 @@
 
 
 {
-      "name": "parwix稳定",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "name": "左岸急速",
+      "type": 1,
+      "url": "http://59.110.212.57:9931/zuoan/?url=",
       "ext": {
         "flag": [
           "qq",
