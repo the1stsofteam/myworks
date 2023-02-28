@@ -103,7 +103,7 @@
 "sites":[
 //vQiaoji(20230228)
 {"key":"YQK_spider(qj)","name":"一起看TV(qj)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
-{"key":"DNSP_spider(qj)","name":"酷酷影视(qj)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996"},
+{"key":"DNSP_spider(qj)","name":"酷酷影视(qj)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
 {"key":"Tutu_spider(qj)","name":"图图影视(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
 {"key":"百影视频(qj)","name":"百影视频(qj)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
 {"key":"NoSearch_Bdys_spider(qj)","name":"哔滴影视(qj)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
