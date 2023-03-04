@@ -634,7 +634,7 @@
 
 
 
-{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;eb433f3b00e991e6ba6509cffc99672c"},
+{"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视(pd)","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;eb433f3b00e991e6ba6509cffc99672c"},
 
 {"key": "xxyy(pd)","name": "🦄┃小路┃影院(pd)","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["4K专区"]},
 
