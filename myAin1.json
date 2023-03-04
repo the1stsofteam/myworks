@@ -38,8 +38,8 @@
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;899d8ce213a531a07363dad1593cd2d3"
 ///jarMD5(xyq):899d8ce213a531a07363dad1593cd2d3
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9"
-///jarMD5(pd):6fdffe9b74ae6fa85d5858a2bd9fb6b9
+#,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;eb433f3b00e991e6ba6509cffc99672c"
+///jarMD5(pd):eb433f3b00e991e6ba6509cffc99672c
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;eb433f3b00e991e6ba6509cffc99672c"
 ///jarMD5(fy):eb433f3b00e991e6ba6509cffc99672c
@@ -50,7 +50,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230303-a
+#20230304-a
 {
 "spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;62876396d536e1d8e43a35fb5da29c8c",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;62876396d536e1d8e43a35fb5da29c8c",
@@ -581,7 +581,7 @@
         {"key":"天堂资源(xyq)","name":"天堂资源(官)(xyq)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;899d8ce213a531a07363dad1593cd2d3"},
         {"key":"木子看剧(xyq)","name":"木子看剧(官)(xyq)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;899d8ce213a531a07363dad1593cd2d3"},
         {"key":"忆梦(xyq)","name":"忆梦(官)(xyq)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/xyq.jar;md5;899d8ce213a531a07363dad1593cd2d3"},
-//pd(20230303)
+//pd(20230304)
 {"key":"js豆瓣(pd)","name":"🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥(pd)","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //{"key":"douban(pd)","name":"🐼┃豆瓣┃T首页(pd)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -634,7 +634,7 @@
 
 
 
-{"key":"csp_AppTT(pd)","name":"🐰┃图图┃影视(pd)","type":3,"api": "csp_TutuYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.39.64.151:3434/","jar":"http://我不是.肥猫.love:63/Jar/TT.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;eb433f3b00e991e6ba6509cffc99672c"},
+{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;eb433f3b00e991e6ba6509cffc99672c"},
 
 {"key": "xxyy(pd)","name": "🦄┃小路┃影院(pd)","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["4K专区"]},
 
