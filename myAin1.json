@@ -19,9 +19,9 @@
 #雷蒙lem
 //https://agit.ai/n3rd/N3RD/src/branch/master/JN/lem.json
 //////////////////////////////////////////////
-#"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;62876396d536e1d8e43a35fb5da29c8c",
-#"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;62876396d536e1d8e43a35fb5da29c8c",
-///jarMD5(lem):62876396d536e1d8e43a35fb5da29c8c
+#"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
+#"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
+///jarMD5(lem):c44fe2247f33714b5bcdbb77249a769c
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
 ///jarMD5(qj):4f2d69de1285efa0a0e72c038de026e2
@@ -52,8 +52,8 @@
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
 #20230305-a
 {
-"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;62876396d536e1d8e43a35fb5da29c8c",
-//"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;62876396d536e1d8e43a35fb5da29c8c",
+"spider":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
+//"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //巧技vQiaoji
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
@@ -878,7 +878,7 @@
 {"key":"高中教育(fty)","name":"📚高中课堂(fty)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/fy.jar;md5;15963d2c360e6ecab89c962fc205a9b6"},
 {"key":"bb(fty)","name":"导航  http://饭太硬.ga (fty)","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc(fty)","name":"请勿相信视频中任何广告(fty)","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-//lem(20230304)
+//lem(20230305)
 // ⇩⇩ jar包内东东 ⇩⇩
 
 //Lem缝合包
@@ -894,7 +894,6 @@
 {"key":"xml_快播资源","name":"🚀Lem专属 快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_量子资源","name":"🚀Lem专属 量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"m3u8ads":"hd.youyhn.com||vip.lz"},
 {"key":"xml_光速资源","name":"🚀Lem专属 光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
-{"key":"XPath_黑料电影","name":"🗣Lem专属 黑料电影(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/黑料电影.json"},
 {"key":"csp_Bili","name":"🅱Lem专属 哔哩哔哩(SP)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 //{"key":"csp_Bili_TS","name":"🅱Lem专属 哔哩哔哩(SP)","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Bili1.json"},
 {"key":"csp_APPTT","name":"🗺Lem专属 图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
@@ -904,6 +903,8 @@
 {"key":"csp_YQK_TS","name":"📺Lem专属 一起看TV(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key":"csp_BookYs","name":"📖Lem专属 书影影视(SP)","type":3,"api":"csp_BookYs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dnsp","name":"🕶Lem专属 酷酷影视(SP)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996"},
+{"key":"csp_AppMr","name":"👻Lem专属 明日影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Hlsp","name":"💣Lem专属 黑料电影(SP)","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XP/黑料电影.json"},
 {"key":"csp_BuLei","name":"👨Lem专属 布蕾蓝光(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
 {"key":"csp_Xinsj","name":"🗻Lem专属 新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Yht","name":"🍀Lem专属 野荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
