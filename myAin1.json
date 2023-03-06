@@ -792,11 +792,11 @@
 
 {"key":"在线之家(pd)","name":"🎞┃在线┃之家(pd)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;c7a548f950e99c50a3465918f2aab475"},
 
-{"key":"csp_search_Yisou(pd)","name":"🐏┃易搜┃搜索(pd)","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
+{"key":"csp_search_Yisou(pd)","name":"🐏┃易搜┃搜索(pd)","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hz752.live:63/ali/ken.php","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
 
-{"key":"csp_search_Zhaozy(pd)","name":"🐑┃资源┃搜索(pd)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php$$$xxooo$$$qq112233","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
-{"key":"csp_search_Upyunso(pd)","name":"🐐┃云搜┃搜索(pd)","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
-{"key":"csp_search_Alips(pd)","name":"🦌┃盘搜┃搜索(pd)","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
+{"key":"csp_search_Zhaozy(pd)","name":"🐑┃资源┃搜索(pd)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://hz752.live:63/ali/ken.php$$$xxooo$$$qq112233","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
+{"key":"csp_search_Upyunso(pd)","name":"🐐┃云搜┃搜索(pd)","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://hz752.live:63/ali/ken.php","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
+{"key":"csp_search_Alips(pd)","name":"🦌┃盘搜┃搜索(pd)","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://hz752.live:63/ali/ken.php","jar":"http://我不是.肥猫.love:63/Jar/alist23.jar;md5;EF15522C6917D7142E0C77709BC152B6"},
 
 {"key":"csp_BBB(pd)","name":"🅱┃哔哩┃合集(pd)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/bili.json","jar":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/pd.jar;md5;c7a548f950e99c50a3465918f2aab475"},
 
