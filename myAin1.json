@@ -22,9 +22,9 @@
 #雷蒙lem
 //https://agit.ai/n3rd/N3RD/src/branch/master/JN/lem.json
 //////////////////////////////////////////////
-#"spider":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
-#"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
-///jarMD5(lem):c44fe2247f33714b5bcdbb77249a769c
+#"spider":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/lem.jar;md5;c7de50be65698fd5e27d2044f0c5c917",
+#"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c7de50be65698fd5e27d2044f0c5c917",
+///jarMD5(lem):c7de50be65698fd5e27d2044f0c5c917
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/qj.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
 ///jarMD5(qj):4f2d69de1285efa0a0e72c038de026e2
@@ -59,8 +59,8 @@
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
 #20230310-a
 {
-"spider":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
-//"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c44fe2247f33714b5bcdbb77249a769c",
+"spider":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/lem.jar;md5;c7de50be65698fd5e27d2044f0c5c917",
+//"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c7de50be65698fd5e27d2044f0c5c917",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //巧技vQiaoji
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
