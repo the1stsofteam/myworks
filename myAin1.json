@@ -39,8 +39,8 @@
 #,"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"
 ///jarMD5(cns):c7a548f950e99c50a3465918f2aab475
 //////////////////////////////////////////////
-#,"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
-///jarMD5(fm):a25f65d9985736693258d27a77386ac5
+#,"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
+///jarMD5(fm):89f3b48308be53927963f843817027d6
 //////////////////////////////////////////////
 #,"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/xyq.jar;md5;899d8ce213a531a07363dad1593cd2d3"
 ///jarMD5(xyq):899d8ce213a531a07363dad1593cd2d3
@@ -57,7 +57,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230310-a
+#20230311-a
 {
 "spider":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/lem.jar;md5;c7de50be65698fd5e27d2044f0c5c917",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;c7de50be65698fd5e27d2044f0c5c917",
@@ -209,7 +209,7 @@
     {"key":"AliPS(ts)","name":"盘搜(ts)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/ts.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
     {"key":"Zxzj(ts)","name":"在线(ts)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/ts.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
     {"key":"push_agent(ts)","name":"PushAgent(ts)","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/ts.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-//cns(20230309)
+//cns(20230310)
 //xBPQ系列
 {"key":"360影视(cns)","name":"360影视(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/360影视.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
 {"key":"LIBVIO(cns)","name":"LIBVIO(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/LIBVIO.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
@@ -262,6 +262,7 @@
 {"key":"哔哩兔(cns)","name":"哔哩兔(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/哔哩兔.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
 {"key":"新视觉(cns)","name":"新视觉(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/新视觉.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
 {"key":"兰花影院(cns)","name":"兰花影院(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/兰花影院.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
+{"key":"Vidhub(cns)","name":"Vidhub(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/Vidhub.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
 
 
 //{"key":"影视工场(cns)","name":"影视工场(cns)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/影视工场.json","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/cns.jar;md5;c7a548f950e99c50a3465918f2aab475"},
@@ -295,7 +296,7 @@
 {"key":"说明2(cns)","name":"https://cainisi.cf(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明3(cns)","name":"免费接口更新维护(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明4(cns)","name":"不要相信视频中的任何广告(cns)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
-//fm(20230308)
+//fm(20230311)
     {
       "key": "AList(fm)",
       "name": "AList(fm)",
@@ -305,7 +306,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "哔哩(fm)",
@@ -316,7 +317,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "泥巴(fm)",
@@ -326,7 +327,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "獨播(fm)",
@@ -337,7 +338,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "快播(fm)",
@@ -397,7 +398,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "巴士(fm)",
@@ -407,7 +408,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "異界(fm)",
@@ -417,7 +418,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "紙條(fm)",
@@ -428,7 +429,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "易搜(fm)",
@@ -439,7 +440,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "盤搜(fm)",
@@ -450,7 +451,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "UP雲搜(fm)",
@@ -461,7 +462,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "找資源(fm)",
@@ -472,7 +473,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "Live(fm)",
@@ -483,7 +484,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "2000",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
     {
       "key": "push_agent(fm)",
@@ -494,7 +495,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken",
-"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;a25f65d9985736693258d27a77386ac5"
+"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/fm.jar;md5;89f3b48308be53927963f843817027d6"
     },
 //XYQ(20230308)
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,"jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/custom_spider.jar;md5;899d8ce213a531a07363dad1593cd2d3"},
