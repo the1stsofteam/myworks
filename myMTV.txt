@@ -2084,6 +2084,9 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 经典怀旧老剧,https://epg.112114.xyz/bili/25980266
 陆小凤传奇,https://epg.112114.xyz/bili/26306902
 电影电视剧,https://epg.112114.xyz/bili/22782448
+巴不得妈妈警犬巴打,https://epg.112114.xyz/bili/142721
+无头东宫倚天屠龙记洛神,https://epg.112114.xyz/bili/24622261
+风云,http://epg.112114.xyz/douyu/9290755
 
 港剧法证先锋4,https://epg.112114.xyz/huya/23829543
 港剧食为奴,https://epg.112114.xyz/huya/23865058
@@ -2115,10 +2118,6 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 港剧倚天屠龙记（梁朝伟）,https://epg.112114.xyz/huya/23735181
 港剧状王宋世杰（粤语）,https://epg.112114.xyz/huya/23735153
 港剧鹿鼎记,http://epg.112114.xyz/douyu/7784862
-
-巴不得妈妈警犬巴打,https://epg.112114.xyz/bili/142721
-无头东宫倚天屠龙记洛神,https://epg.112114.xyz/bili/24622261
-风云,http://epg.112114.xyz/douyu/9290755
 
 悬疑破案,http://mmitv.top/pltv/yy.php?id=10425097
 百视通港剧,http://39.135.55.105:6610/PLTV/88888888/224/3221226991/index.m3u8?servicetype=1
