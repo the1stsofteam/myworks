@@ -2087,6 +2087,13 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 巴不得妈妈警犬巴打,https://epg.112114.xyz/bili/142721
 无头东宫倚天屠龙记洛神,https://epg.112114.xyz/bili/24622261
 风云,http://epg.112114.xyz/douyu/9290755
+新白娘子传奇都挺好小鱼儿与花无缺,http://epg.112114.xyz/douyu/7476264
+鉴证实录读心神探,https://epg.112114.xyz/bili/23170738
+天龙八部(2),http://epg.112114.xyz/douyu/7246932
+神雕侠侣(2),https://epg.112114.xyz/huya/23865171
+大时代精武门,http://epg.112114.xyz/douyu/7338853
+金庸经典剧,https://epg.112114.xyz/huya/11602082
+读心神探(1)谈情说案,https://epg.112114.xyz/bili/11627802
 
 港剧法证先锋4,https://epg.112114.xyz/huya/23829543
 港剧食为奴,https://epg.112114.xyz/huya/23865058
@@ -2123,18 +2130,15 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 百视通港剧,http://39.135.55.105:6610/PLTV/88888888/224/3221226991/index.m3u8?servicetype=1
 学警出更扫黄先锋潜行狙击忠奸人,http://epg.112114.xyz/douyu/223521
 天龙八部碧血剑射雕,http://zzy789.xyz/douyu1.php?id=7644931
-新白娘子传奇都挺好小鱼儿与花无缺,http://epg.112114.xyz/douyu/7476264
 天地豪情东周列国,https://epg.112114.xyz/bili/23188003
 秀才遇到兵皆大欢喜当女人爱上男人,https://epg.112114.xyz/bili/8130437
 人龙传说聊斋,http://epg.112114.xyz/douyu/59612
 十二传说法证先锋谈情说案,https://epg.112114.xyz/bili/23776217
-鉴证实录读心神探,https://epg.112114.xyz/bili/23170738
 楚汉骄雄九五至尊奸人坚,https://epg.112114.xyz/bili/23656786
 宫心计陀枪师姐,http://epg.112114.xyz/douyu/6241733
 封神榜94射雕,http://epg.112114.xyz/douyu/338759
 射雕英雄传,http://epg.112114.xyz/douyu/4396972
 天龙八部(1),https://epg.112114.xyz/huya/11352912
-天龙八部(2),http://epg.112114.xyz/douyu/7246932
 天龙八部(3),http://epg.112114.xyz/douyu/1746258
 我和僵尸有个约会(1),http://zzy789.xyz/douyu1.php?id=7805562
 我和僵尸有个约会(2),http://epg.112114.xyz/douyu/7356023
@@ -2143,11 +2147,9 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 鹿鼎记(3),http://epg.112114.xyz/douyu/3831627
 鹿鼎记(4),http://epg.112114.xyz/douyu/5662630
 神雕侠侣(1),http://epg.112114.xyz/douyu/7570958
-神雕侠侣(2),https://epg.112114.xyz/huya/23865171
 法证先锋(2),https://epg.112114.xyz/bili/24820884
 西游记(1),http://epg.112114.xyz/douyu/9518204
 西游记(2),https://epg.112114.xyz/bili/21694925
-大时代精武门,http://epg.112114.xyz/douyu/7338853
 刑事侦缉档案(1),https://epg.112114.xyz/bili/24150729
 刑事侦缉档案(2),https://epg.112114.xyz/bili/14274173
 刑事侦缉档案(3),https://epg.112114.xyz/bili/23229305
@@ -2155,8 +2157,6 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 古灵精探(2)读心神探,http://epg.112114.xyz/douyu/6733135
 古灵精探(3)法证先锋,https://epg.112114.xyz/bili/23605875
 古灵精探法证先锋粤语经典,https://epg.112114.xyz/bili/3880983
-金庸经典剧,https://epg.112114.xyz/huya/11602082
-读心神探(1)谈情说案,https://epg.112114.xyz/bili/11627802
 读心神探(2)陀枪师姐,https://epg.112114.xyz/bili/21733247
 碧血剑云海玉弓缘,https://epg.112114.xyz/bili/22145508
 护花危情警犬巴打超时空男臣,https://epg.112114.xyz/bili/21791019
