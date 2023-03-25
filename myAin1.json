@@ -57,7 +57,7 @@
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/ 替换为 clan://TVBox/Ain1/LIB/
 # https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/ 替换为 clan://TVBox/Ain1/JS/
 #修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"
-#20230324-a
+#20230325-a
 {
 "spider":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/lem.jar;md5;717f447d5197c480ad59c0171c25cf07",
 //"spider":"clan://TVBox/Ain1/jar/lem.jar;md5;717f447d5197c480ad59c0171c25cf07",
@@ -1366,6 +1366,13 @@
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/T/li.json"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷云77.js"},
 
+{"key":"drjs_万能影视","name":"👺Lem专属 万能影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/万能影视.js"},
+{"key":"drjs_539影院","name":"👺Lem专属 539影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/539影院.js"},
+{"key":"drjs_飞飞影视","name":"👺Lem专属 飞飞影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/飞飞影视.js"},
+{"key":"drjs_朴樱影视","name":"👺Lem专属 朴樱影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/朴樱影视.js"},
+{"key":"drjs_UM电影","name":"👺Lem专属 UM电影(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/UM电影.js"},
+{"key":"drjs_孜然影视","name":"👺Lem专属 孜然影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/孜然影视.js"},
+{"key":"drjs_l0l","name":"👺Lem专属 l0l(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/l0l.js"},
 {"key":"drjs_345看片","name":"👺Lem专属 345看片(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/345看片.js"},
 {"key":"drjs_有声听书网","name":"👺Lem专属 有声听书网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/有声听书网.js"},
 {"key":"drjs_酷奇MV","name":"👺Lem专属 酷奇MV(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/酷奇MV.js"},
@@ -1377,7 +1384,6 @@
 {"key":"drjs_胖虎影视","name":"👺Lem专属 胖虎影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/胖虎.js"},
 {"key":"drjs_KOK影院","name":"👺Lem专属 KOK影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/KOK影院.js"},
 {"key":"drjs_趣享星趣","name":"👺Lem专属 趣享星趣(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/趣享星趣.js"},
-{"key":"drjs_朴樱影视","name":"👺Lem专属 朴樱影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/朴樱影视.js"},
 {"key":"drjs_布雷蓝光","name":"👺Lem专属 布雷蓝光(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/布雷蓝光.js"},
 {"key":"drjs_清风DJ","name":"👺Lem专属 清风DJ(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/清风DJ.js"},
 {"key":"drjs_JangoIndex","name":"👺Lem专属 JangoIndex(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/JangoIndex.js"},
@@ -1386,7 +1392,6 @@
 {"key":"drjs_达达龟","name":"👺Lem专属 达达龟(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/达达龟.js"},
 {"key":"drjs_诺讯影视","name":"👺Lem专属 诺讯影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/诺讯影视.js"},
 {"key":"drjs_花猫TV","name":"👺Lem专属 花猫TV(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/花猫TV.js"},
-{"key":"drjs_UM电影","name":"👺Lem专属 UM电影(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/UM电影.js"},
 {"key":"drjs_FreeOK","name":"👺Lem专属 FreeOK(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/FreeOK.js"},
 {"key":"drjs_139影视","name":"👺Lem专属 139影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/139影视.js"},
 {"key":"drjs_鸭奈飞","name":"👺Lem专属 鸭奈飞(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/鸭奈飞.js"},
@@ -1399,8 +1404,6 @@
 {"key":"drjs_天空影视","name":"👺Lem专属 天空影视(DRPY)","type":1,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/天空影视.js"},
 {"key":"drjs_听书网","name":"👺Lem专属 听书网(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/听书网.js"},
 {"key":"drjs_69美剧","name":"👺Lem专属 69美剧(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/69美剧.js"},
-{"key":"drjs_飞飞影视","name":"👺Lem专属 飞飞影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/飞飞影视.js"},
-{"key":"drjs_l0l","name":"👺Lem专属 l0l(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/l0l.js"},
 {"key":"drjs_兰花影院","name":"👺Lem专属 兰花影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/兰花影院.js"},
 {"key":"drjs_蓝光影院","name":"👺Lem专属 蓝光影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/蓝光影院.js"},
 {"key":"drjs_HDmoli","name":"👺Lem专属 HDmoli(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/HDmoli.js"},
@@ -1418,7 +1421,6 @@
 {"key":"drjs_74听书","name":"👺Lem专属 74听书(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/74听书.js"},
 {"key":"drjs_NyaFun","name":"👺Lem专属 NyaFun(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/NyaFun.js"},
 {"key":"drjs_慢大浪","name":"👺Lem专属 慢大浪(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/慢大浪.js"},
-{"key":"drjs_孜然影视","name":"👺Lem专属 孜然影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/孜然影视.js"},
 {"key":"drjs_i275听书","name":"👺Lem专属 i275听书(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/i275听书.js"},
 {"key":"drjs_被窝电影","name":"👺Lem专属 被窝电影(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/被窝电影.js"},
 {"key":"drjs_豆巴影视","name":"👺Lem专属 豆巴影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/豆巴影视.js"},
@@ -1469,7 +1471,6 @@
 {"key":"drjs_看韩剧","name":"👺Lem专属 看韩剧(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/看韩剧.js"},
 {"key":"drjs_在线之家Ⅱ","name":"👺Lem专属 在线之家Ⅱ(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/在线之家Ⅱ.js"},
 {"key":"drjs_尘落影视","name":"👺Lem专属 尘落影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/尘落影视.js"},
-{"key":"drjs_539影院","name":"👺Lem专属 539影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/539影院.js"},
 {"key":"drjs_路漫漫","name":"👺Lem专属 路漫漫(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/路漫漫.js"},
 {"key":"drjs_免费看","name":"👺Lem专属 免费看(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/免费看.js"},
 {"key":"drjs_伊雪湾","name":"👺Lem专属 伊雪湾(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/伊雪湾.js"},
@@ -1582,7 +1583,6 @@
 {"key":"drjs_凌云影视","name":"👺Lem专属 凌云影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/凌云影视.js"},
 {"key":"drjs_兔小贝","name":"👺Lem专属 兔小贝(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/兔小贝.js"},
 {"key":"drjs_人人影视","name":"👺Lem专属 人人影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/人人影视.js"},
-{"key":"drjs_万能影视","name":"👺Lem专属 万能影视(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/万能影视.js"},
 {"key":"drjs_vip影院","name":"👺Lem专属 VIP影院(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/vip影院.js"},
 {"key":"drjs_LIBVIO","name":"👺Lem专属 LIBVIO(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/LIBVIO.js"},
 {"key":"drjs_cokemv","name":"👺Lem专属 Cokemv(DRPY)","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/cokemv.js"},
