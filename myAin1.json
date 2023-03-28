@@ -108,6 +108,8 @@
 ],
 */
 "sites":[
+{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[Ain1]","type":3,"api":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/lib/drpy2.min.js","ext":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/js/drpy.js"},
+
 //vQiaoji(20230322)
 {"key":"YQK_spider(qj)","name":"一起看TV(qj)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.11ty.top","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/qj.jar;md5;58dbcf7265f01cc353e5b27855600236"},
 {"key":"DNSP_spider(qj)","name":"酷酷影视(qj)","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://codeberg.org/the1stsofteam/mainworks/raw/branch/master/jar/qj.jar;md5;58dbcf7265f01cc353e5b27855600236"},
