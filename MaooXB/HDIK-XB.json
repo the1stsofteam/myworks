@@ -1,0 +1,74 @@
+{
+// 修正日期
+  "author": "20220915",
+//网站名称、首页
+  "name": "hdik",
+  "url": "http://hdik.xyz",
+//访问请求头
+  "ua": "空",
+//播放请求头
+  "User": "空",
+//列表翻页起始页的页数
+  "qishiye": "1",
+//分类
+  "fenlei": "电视剧$/index.php/vod/type/id/1/page/#电影$/index.php/vod/type/id/2/page/#动漫$/index.php/vod/type/id/3/page/#纪录片$/index.php/vod/type/id/4/page/#综艺$/index.php/vod/type/id/5/page/#国产剧$/index.php/vod/type/id/7/page/#日韩剧$/index.php/vod/type/id/8/page/#港台剧$/index.php/vod/type/id/9/page/#欧美剧$/index.php/vod/type/id/10/page/#泰剧$/index.php/vod/type/id/11/page/",
+  "houzhui": ".html",
+  "shifouercijiequ": "0",
+  "jiequqian": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "<div class=\"myui-vodlist__box\">",
+  "jiequshuzuhou": "</a>",
+  "tupianqian": "data-original=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+//副标题
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span>",
+//搜索部分
+//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
+  "ssmoshi": "0",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/index.php/vod/detail/id/",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+//状态，导演，演员，剧情的截取
+  "zhuangtaiqian": "更新：",
+  "zhuangtaihou": "</span>",
+  "daoyanqian": "导演：",
+  "daoyanhou": "</p>",
+  "zhuyanqian": "主演：",
+  "zhuyanhou": "</p>",
+  "juqingqian": "display: none;\"><p>",
+  "juqinghou": "</span>",
+//播放集数截取部分
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "<div id=\"playlist",
+  "bfjiequshuzuhou": "</ul>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}

@@ -1,0 +1,14 @@
+{
+ "免嗅":"0",
+ "请求头":"电脑",
+ "嗅探词": ".m3u8#.flv#",
+ "过滤词": "101.tv#/play/?vkey=#=https",
+ "数组":"class=\"aplus-exp ecimgbor&&pack-infolist",
+ "副标题":"class=\"pack-prb hidden\">&&</span",
+ "线路数组":"data-from&&a>",
+ "线路标题": ">&&</",
+ "播放数组":"id=\"playsx\"&&</ul>",
+ "分类url":"http://www.l0l.tv/index.php/vod/show/id/2.html",
+ "年份":"2000-2022",
+ "筛选":"0" 
+}
