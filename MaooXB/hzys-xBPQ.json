@@ -1,0 +1,13 @@
+{
+"免嗅":"0",
+"副标题": "class=\"continu\">&&<",
+"简介": "介绍：&&<",
+"播放数组": "list-unstyled row text-center ff-playurl-line ff-playurl&&</ul>",
+"线路数组": "glyphicon glyphicon-facetime-video ff-text\"></span&&/h2>",
+"线路标题": ">&&<",
+"分类":"电视剧$2#电影$1#动漫$4#综艺$3",
+"分类url":"http://m2.tv9box.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html",
+"地区": "替换[大陆$大陆>>内地$内地]",
+"年份":"2000-2022",
+"筛选":"1"
+}
