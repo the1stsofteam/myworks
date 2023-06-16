@@ -2,7 +2,7 @@
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     
-    "spider": "https://tvbox.cainisi.cf/jar/fty230610.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0615.jar;md5;09a472702befaecf58154f50533395fd",
     "wallpaper": "https://cainisi.cf/壁纸",
     
     "sites": [
@@ -14,7 +14,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
         },
         {
             "key": "豆瓣推荐",
@@ -24,17 +24,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/豆瓣.js"
-        },
-        {
-            "key": "啊班影视",
-            "name": "啊班┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://a.banwl.com/api.php/app/"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/豆瓣.js"
         },
         {
             "key": "多米蓝光",
@@ -72,17 +62,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/热播之家.json"
-        },
-        {
-            "key": "布蕾影城",
-            "name": "布蕾┃影视",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/热播之家.json"
         },
         {
             "key": "csp_AppTT",
@@ -139,7 +119,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
             "key": "csp_appys_xc",
@@ -187,7 +167,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/新视觉影视.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/新视觉影视.js"
         },
         {
             "key": "农民影视",
@@ -207,7 +187,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/鸭奈飞.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/鸭奈飞.js"
         },
         {
             "key": "快看影视",
@@ -217,7 +197,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
         },
         {
             "key": "Kuaikan",
@@ -256,7 +236,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
+        },
+        {
+            "key": "酷影",
+            "name": "酷影┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.222.175.111:89/api.php/app/"
         },
         {
             "key": "饭团影视",
@@ -276,13 +266,23 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/零零七影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/零零七影视.json"
         },
         {
             "key": "双十电影",
             "name": "双十┃影视",
             "type": 3,
             "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "PPY",
+            "name": "鸭鸭┃影视",
+            "type": 1,
+            "api": "http://1.ahailove.cn:23450/api.php/provide/vod",
+            "playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -295,7 +295,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/TVB云播.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/TVB云播.js"
         },
         {
             "key": "555电影",
@@ -305,7 +305,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/555电影.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/555电影.js"
         },
         {
             "key": "csp_appys_如意4K",
@@ -410,10 +410,10 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
-            "key": "csp_Miaobo",
-            "name": "秒播┃影视",
+            "key": "csp_DuoX",
+            "name": "多线┃影视",
             "type": 3,
-            "api": "csp_Miaobo",
+            "api": "csp_DuoX",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -441,7 +441,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/139影视.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/139影视.js"
         },
         {
             "key": "无名小站",
@@ -451,7 +451,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/无名小站.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/无名小站.js"
         },
         {
             "key": "城市电影",
@@ -461,7 +461,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/城市电影.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/城市电影.js"
         },
         
         
@@ -476,7 +476,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/野荷塘.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/野荷塘.json"
         },
         {
             "key": "素白白影视",
@@ -486,7 +486,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
         },
         {
             "key": "莫扎兔",
@@ -496,7 +496,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/莫扎兔.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/莫扎兔.json"
         },
         {
             "key": "干饭影视",
@@ -506,7 +506,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/干饭影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/干饭影视.json"
         },
         {
             "key": "凌云影视",
@@ -516,7 +516,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/凌云影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/凌云影视.json"
         },
         {
             "key": "看一看影视",
@@ -526,7 +526,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/看一看影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/看一看影视.json"
         },
         {
             "key": "奇优影院",
@@ -536,7 +536,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"
         },
         {
             "key": "Vidhub",
@@ -546,7 +546,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/Vidhub.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/Vidhub.json"
         },
         {
             "key": "冷曦影视",
@@ -556,7 +556,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/冷曦影视.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/冷曦影视.json"
         },
         {
             "key": "NikeTV",
@@ -566,7 +566,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/NikeTV.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/NikeTV.json"
         },
         {
             "key": "APP影院",
@@ -576,7 +576,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/APP影院.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/APP影院.json"
         },
         {
             "key": "剧白白",
@@ -586,7 +586,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/剧白白.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/剧白白.json"
         },
         {
             "key": "万博剧院",
@@ -596,7 +596,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/万博剧院.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/万博剧院.json"
+        },
+        {
+            "key": "52看剧",
+            "name": "52┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/52看剧.json"
         },
         
         
@@ -629,7 +639,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/吼吼.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/吼吼.js"
         },
         
         
@@ -644,7 +654,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/短视频.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/短视频.json"
         },
         {
             "key": "酷奇MV",
@@ -654,7 +664,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json"
         },
         {
             "key": "csp_BBB",
@@ -691,7 +701,7 @@
             "name": "📚儿童┃启蒙",
             "type": 3,
             "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/兔小贝.js",
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -750,7 +760,7 @@
             "name": "虎牙┃直播",
             "type": 3,
             "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/虎牙直播.js",
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -780,7 +790,7 @@
             "name": "88┃看球",
             "type": 3,
             "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/88看球.js",
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -793,7 +803,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/JRKAN直播.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/JRKAN直播.js"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -818,7 +828,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "TuGou",
@@ -828,7 +838,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "PanSearch",
@@ -838,7 +848,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_search_Yisou",
@@ -848,7 +858,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_search_Zhaozy",
@@ -858,7 +868,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt$$$yingshi$$$abcd1234"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso",
@@ -868,7 +878,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_search_Alips",
@@ -878,7 +888,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "push_agent",
@@ -888,7 +898,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         
         
@@ -977,11 +987,6 @@
             "name": "M3U8",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "1717",
-            "type": 0,
-            "url": "https://www.1717yun.com/1717yun/?url="
         },
         {
             "name": "1988",
@@ -1139,15 +1144,6 @@
             ]
         },
         {
-            "name": "海外看",
-            "hosts": [
-                "m3u.haiwaikan.com"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*(.*)[\\s\\S]*?#EXT-X-DISCONTINUITY(\\n|\\r\\n)"
-            ]
-        },
-        {
             "name": "火山嗅探",
             "hosts": [
                 "huoshan.com"
@@ -1163,6 +1159,21 @@
             ],
             "regex": [
                 "is_play_url="
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "m3u.haiwaikan.com"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*(.*)[\\s\\S]*?#EXT-X-DISCONTINUITY(\\n|\\r\\n)"
+            ]
+        },
+        {
+            "host": "www.test.com",
+            "rule": [
+                "playwm/?video_id="
             ]
         }
     ],
@@ -1216,7 +1227,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://tvbox.cainisi.cf/TV",
+            "url": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/TV",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
