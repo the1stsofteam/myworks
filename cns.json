@@ -1,8 +1,18 @@
+//cainisi
+//https://tvbox.cainisi.cf
+//jarMD5:a4c63fe74439b399ccd4eaaf4c639588
+//https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/
+//http://ltjm.ml/mao.php?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/
+//https://github.com/gaotianliuyun/gao/blob/master/xBPQ.json
+//https://agit.ai/chuqiuyu/gao/raw/branch/master/xBPQ.json
+//xBPQ.json 纯xBPQ源，jar包和配置来源于菜妮丝
+#修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"、"rules"、"doh"
+#20230617-a
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     
-    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0615.jar;md5;09a472702befaecf58154f50533395fd",
+    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0617.jar;md5;a4c63fe74439b399ccd4eaaf4c639588",
     "wallpaper": "https://cainisi.cf/壁纸",
     
     "sites": [
@@ -63,6 +73,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/热播之家.json"
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布蕾┃影视",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_AppTT",
@@ -607,6 +627,31 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/52看剧.json"
+        },
+        {
+            "key": "零度影视",
+            "name": "零度┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/零度影视.json"
+        },
+        {
+            "key": "云云资源",
+            "name": "云云┃影视",
+            "type": 1,
+            "api": "http://1.ahailove.cn:23450/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=",
+            "categories": [
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫"
+            ]
         },
         
         
