@@ -1,13 +1,3 @@
-//cainisi
-//https://tvbox.cainisi.cf
-//jarMD5:a4c63fe74439b399ccd4eaaf4c639588
-//https://jm.dovxi.repl.co/api?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/
-//http://ltjm.ml/mao.php?url=https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/
-//https://github.com/gaotianliuyun/gao/blob/master/xBPQ.json
-//https://agit.ai/chuqiuyu/gao/raw/branch/master/xBPQ.json
-//xBPQ.json 纯xBPQ源，jar包和配置来源于菜妮丝
-#修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"、"rules"、"doh"
-#20230617-a
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
@@ -63,16 +53,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "热播之家",
-            "name": "热播┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/热播之家.json"
         },
         {
             "key": "csp_BuLei",
