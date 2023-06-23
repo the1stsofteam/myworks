@@ -1,31 +1,4 @@
-#myAin1NG_FYPlus
-# https://pastebin.com/raw/apHdUN93
-# jarMD5:09baf4a03d362d96f0fc14085c343191
-#饭太硬fy
-///jarMD5(fy):09baf4a03d362d96f0fc14085c343191
-#小米xm
-///jarMD5(xm):d10047ad127888e9588e38bdc0817cdd
-#DRJS:
-///jarMD5[DRJS]:aa78ba556383bd1adbad7745478ea5aa
-#香雅情xyq
-//jarMD5(XYQ):9f7e10364a4d9ffbbdfef19f5c378848
-#菜妮丝cns
-//jarMD5(cns):09baf4a03d362d96f0fc14085c343191
-#肥猫pd
-//jarMD5(pd):FE290599BF2EF6D202B92B9B733F776F
-#XC
-//jarMD5(xc):09BAF4A03D362D96F0FC14085C343191
-#巧技qj
-//jarMD5(qj):4c6366c0605d544297ee621109eb36a4
-#荷城茶秀hccx
-// (hc) 使用默认jar
-#zhh-xBPQ
-//(zhh) 使用默认jar
-//////////////////////////////////////////
-#修改"spider"、"sites"、"parses"、"lives"、"address"、"wallpaper"、"flags"、"ijk"、"ads"、"jar"、"rules"、"doh"
-#20230623-b
 {
-//"spider":"https://notabug.org/softeam/mainworks/raw/master/jar/fty.jar;md5;aa78ba556383bd1adbad7745478ea5aa8",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;09baf4a03d362d96f0fc14085c343191",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
