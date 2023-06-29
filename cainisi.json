@@ -2,8 +2,8 @@
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     
-    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0623.jar;md5;09baf4a03d362d96f0fc14085c343191",
-    "wallpaper": "https://cainisi.cf/壁纸",
+    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0628.jar;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+    "wallpaper": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/壁纸",
     
     "sites": [
         {
@@ -25,6 +25,36 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/豆瓣.js"
+        },
+        {
+            "key": "爱迪",
+            "name": "爱迪┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "狐狸",
+            "name": "狐狸┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "鸭鸭",
+            "name": "鸭鸭┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
             "key": "YQK_spider",
@@ -93,15 +123,6 @@
             "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
-            "key": "VOFLIX",
-            "name": "VOFLIX┃影视",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "明明",
             "name": "明明┃影视",
             "type": 3,
@@ -168,6 +189,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/555电影.js"
+        },
+        {
+            "key": "csp_Auete",
+            "name": "Auete┃影视",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "爱奇艺",
@@ -251,16 +281,11 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "在线之家",
-            "name": "在线┃影视",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
+        
+        
+        
+        
+        
         {
             "key": "csp_DuoX",
             "name": "多线┃影视",
@@ -281,16 +306,6 @@
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/厂长资源.js"
         },
         {
-            "key": "新视觉",
-            "name": "新视觉┃影视",
-            "type": 3,
-            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/新视觉影视.js"
-        },
-        {
             "key": "农民影视",
             "name": "农民┃影视",
             "type": 3,
@@ -301,6 +316,15 @@
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/农民影视.json"
         },
         {
+            "key": "VOFLIX",
+            "name": "VOFLIX┃影视",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "双十电影",
             "name": "双十┃影视",
             "type": 3,
@@ -308,6 +332,26 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "在线之家",
+            "name": "在线┃影视",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "新视觉",
+            "name": "新视觉┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/新视觉影视.js"
         },
         
         
@@ -574,7 +618,8 @@
             "api": "https://mv.饭太硬.ml/mv/vod",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "酷奇MV",
@@ -751,16 +796,6 @@
             "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
-            "key": "TuGou",
-            "name": "土狗┃云盘",
-            "type": 3,
-            "api": "csp_TuGou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
             "key": "PanSearch",
             "name": "Search┃云盘",
             "type": 3,
@@ -927,11 +962,6 @@
             "name": "爱酷",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
-            "name": "365",
-            "type": 0,
-            "url": "https://chaxun.truechat365.com/?url="
         },
         {
             "name": "夜幕",
