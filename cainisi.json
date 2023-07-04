@@ -2,7 +2,7 @@
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     
-    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0628.jar;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0703.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
     "wallpaper": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/壁纸",
     
     "sites": [
@@ -35,26 +35,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key": "狐狸",
-            "name": "狐狸┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
-        {
-            "key": "鸭鸭",
-            "name": "鸭鸭┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
             "key": "YQK_spider",
@@ -198,6 +178,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "鸭鸭",
+            "name": "鸭鸭┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
             "key": "爱奇艺",
