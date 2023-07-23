@@ -1,7 +1,7 @@
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0716.jar;md5;25c5d6aaa6858cc5b9a088b98947e06b",
+    "spider": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/jar/fty0720.jar;md5;f4ec316a5fa752ef8082328b9b28e708",
     "wallpaper": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/壁纸",
     "sites": [
         {
@@ -38,15 +38,16 @@
             "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/荐片.js"
         },
         {
-            "key": "爱迪",
-            "name": "爱迪┃影视",
+            "key": "低端影视",
+            "name": "低端┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
+            "playerType": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/ddys.js"
         },
         {
             "key": "YQK_spider",
@@ -58,16 +59,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_apple",
-            "name": "小苹果┃影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "鲲娱七七",
@@ -82,24 +73,16 @@
             "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/酷云77.js"
         },
         {
-            "key": "低端影视",
-            "name": "低端┃影视",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "两个BT",
             "name": "两个BT┃影视",
-            "api": "csp_Bttwoo",
             "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/两个BT.js"
         },
         {
             "key": "csp_FanYY",
@@ -124,18 +107,19 @@
         },
         {
             "key": "快看影视",
-            "name": "快看┃影视1",
+            "name": "快看1┃影视",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
+            "playerType": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/快看.js"
         },
         {
             "key": "Kuaikan",
-            "name": "快看┃影视2",
+            "name": "快看2┃影视",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -169,23 +153,12 @@
             "key": "饭团影视",
             "name": "饭团┃影视",
             "type": 3,
-            "api": "csp_Fantuan",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "555电影",
-            "name": "555┃影视",
-            "type": 3,
             "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/555电影[V2].js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/饭团影视.js"
         },
         {
             "key": "Auete影视",
@@ -197,33 +170,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/Auete.js"
-        },
-        
-        {
-            "key": "酷云",
-            "name": "酷云┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://ys.realdou.cn/api.php/app/",
-            "categories": [
-                "4K电影",
-                "4K电视剧"
-            ]
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "工场┃影视",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.ysgc.vip"
         },
         {
             "key": "Dm84",
@@ -267,13 +213,14 @@
         },
         {
             "key": "COKEMV",
-            "name": "COKEMV┃影视",
+            "name": "COKE┃影视",
             "type": 3,
-            "api": "csp_Cokemv",
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/cokemv.js"
         },
         
         
@@ -287,8 +234,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
+            "changeable": 1
+        },
+        {
+            "key": "陌陌",
+            "name": "陌陌┃影视",
+            "type": 3,
+            "api": "csp_MmYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "厂长资源",
@@ -302,35 +258,58 @@
             "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/厂长资源.js"
         },
         {
-            "key": "农民影视",
-            "name": "农民┃影视",
+            "key": "探探",
+            "name": "探探┃影视",
             "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/农民影视.json"
-        },
-        {
-            "key": "VOFLIX",
-            "name": "VOFLIX┃影视",
-            "type": 3,
-            "api": "csp_Voflix",
+            "api": "csp_YT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "新视觉影院",
+            "name": "新视觉┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/新视觉影视.js"
+        },
+        {
+            "key": "农民影视",
+            "name": "农民┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/农民影视.js"
         },
         {
             "key": "双十电影",
             "name": "双十┃影视",
             "type": 3,
-            "api": "csp_Dy1010",
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/双十电影.js"
+        },
+        {
+            "key": "VOFLIX",
+            "name": "VOFLIX┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/voflix.js"
         },
         {
             "key": "在线之家",
@@ -344,15 +323,15 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
-            "key": "新视觉影院",
-            "name": "新视觉┃影视",
+            "key": "555电影",
+            "name": "555┃影视",
             "type": 3,
             "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/新视觉影视.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/555电影[V2].js"
         },
         
         
@@ -688,6 +667,160 @@
             "changeable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/兄弟影视.js"
         },
+        {
+            "key": "光棍影院",
+            "name": "光棍┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/光棍影院.js"
+        },
+        {
+            "key": "免费看影视",
+            "name": "免费看┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/免费看.js"
+        },
+        {
+            "key": "八蛋影视",
+            "name": "八蛋┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/八蛋影视.js"
+        },
+        {
+            "key": "六度TV",
+            "name": "六度┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/六度TV.js"
+        },
+        {
+            "key": "兰花影院",
+            "name": "兰花┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/兰花影院.js"
+        },
+        {
+            "key": "凌云影视",
+            "name": "凌云┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/凌云影视.js"
+        },
+        {
+            "key": "创艺影视",
+            "name": "创艺┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/创艺影视.js"
+        },
+        {
+            "key": "Gimy剧迷ai",
+            "name": "剧迷ai┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/剧迷.js"
+        },
+        {
+            "key": "Gimy剧迷su",
+            "name": "剧迷su┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/剧迷su.js"
+        },
+        {
+            "key": "动漫岛",
+            "name": "岛┃动漫",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/动漫岛.js"
+        },
+        {
+            "key": "北川影视",
+            "name": "北川┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/北川影视.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/去看吧.js"
+        },
+        {
+            "key": "咕噜[V2]",
+            "name": "咕噜┃影视",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/咕噜[V2].js"
+        },
+        {
+            "key": "嘶哩嘶哩",
+            "name": "嘶哩┃动漫",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/嘶哩嘶哩.js"
+        },
         
         
         
@@ -735,17 +868,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/干饭影视.json"
-        },
-        {
-            "key": "凌云影视",
-            "name": "凌云┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/XBPQ/凌云影视.json"
         },
         {
             "key": "看一看影视",
@@ -862,14 +984,15 @@
             "changeable": 1
         },
         {
-            "key": "csp_trj",
+            "key": "唐人街影院",
             "name": "🛫唐人街┃海外",
             "type": 3,
-            "api": "csp_Tangrenjie",
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/唐人街影视[飞].js"
         },
         {
             "key": "吼吼",
@@ -880,7 +1003,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/吼吼.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/吼吼[飞].js"
         },
         
         
@@ -929,6 +1052,17 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/MV263.js"
+        },
+        {
+            "key": "啦啦DJ音乐网",
+            "name": "🎵啦啦DJ┃音乐",
+            "type": 3,
+            "api": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/啦啦DJ.js"
         },
         {
             "key": "短视频",
@@ -1004,7 +1138,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/兔小贝.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/兔小贝.js"
         },
         {
             "key": "儿童",
@@ -1080,7 +1214,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf/json/js/虎牙直播.js"
+            "ext": "https://jm.dovxi.repl.co/api?url=https://drpy.cainisi.cf/js/虎牙直播.js"
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -1417,7 +1551,16 @@
     
     "rules": [
         {
-            "name": "量子",
+            "name": "星星",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "量子广告",
             "hosts": [
                 "vip.lz",
                 "hd.lz"
@@ -1428,7 +1571,7 @@
             ]
         },
         {
-            "name": "非凡",
+            "name": "非凡广告",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
