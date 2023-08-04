@@ -1,5 +1,5 @@
 {
 "sites":[
-{"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
+{"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ikanbot2.js"},
 ],
 }
