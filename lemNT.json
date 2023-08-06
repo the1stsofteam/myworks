@@ -2,17 +2,7 @@
 
 "sites":[
 
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/咕噜[V2].js",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XBPQ/VOFLIX.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XBPQ/冷曦影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XBPQ/FreeOK.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XYQHiker/臭蛋蛋影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XYQHiker/星空影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XB/干饭影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XB/GIMY影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XB/看一看影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XB/星空影视.json",
-"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XP/cokemv.json",
+{"key":"drjs_我的哔哩","name":"雷蒙影视 | 👺我的哔哩(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/我的哔哩.js"},
 
 ],
 }
