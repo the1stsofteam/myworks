@@ -1,26 +1,6 @@
 {
     "sites": [
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/KOK影视.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/看了么.js",
-"https://notabug.org/softeam/mainworks/raw/master/jar/xyq.jar",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/电影港磁力.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/兄弟影视.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/在线之家.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/奈飞中文.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/电影盒子.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/耐看点播.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/速搜影院.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/疯狗影视.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/爱看影院.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/Vidhub视频库.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/锐行加速影院.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQHiker/无插件直播.json",
-"https://notabug.org/softeam/mainworks/raw/master/XYQBiu/libvio.json",
-"http://rihou.cc:99/hccx/策驰影视.json",
-"https://notabug.org/softeam/mainworks/raw/master/zhh/处女影视.json",
-"https://notabug.org/softeam/mainworks/raw/master/zhh/52看剧.json",
-"https://notabug.org/softeam/mainworks/raw/master/zhh/无名小站.json",
-"https://notabug.org/softeam/mainworks/raw/master/zhh/两个BT.json",
+ {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"}
 
     ],
 }
