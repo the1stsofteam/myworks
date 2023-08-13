@@ -1,0 +1,7 @@
+{
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/int.jar",
+    "sites": [
+ {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"}
+
+    ],
+}
