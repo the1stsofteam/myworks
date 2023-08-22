@@ -39,6 +39,12 @@
 {"key":"drpy_js_剧迷su","name":"影视 | 剧迷su[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/剧迷su.js"},
 {"key":"drpy_js_胖虎影视","name":"影视 | 胖虎影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/胖虎.js"},
 //
+{"key":"drpy_js_四个圈儿","name":"影视 | 四个圈儿[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/四个圈影视.js"},
+{"key":"drpy_js_奇优影院","name":"影视 | 奇优影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/奇优影院.js"},
+{"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/星辰.js"},
+{"key":"drpy_js_免费看","name":"影视 | 免费看[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/免费看.js"},
+{"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/大米星球.js"},
+//
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兔小贝.js"},
 //
 {"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/喜马拉雅.js","playerType":"2"},
