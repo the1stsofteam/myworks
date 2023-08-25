@@ -8,16 +8,17 @@
 //
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/荐片.js"},
 {"key":"drpy_js_爱看机器人","name":"影视 | 爱看机器人新版[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱看机器人.js"},
-//{"key":"drpy_js_ikanbot2","name":"爱看 | 机器2[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ikanbot2.js"},
-//{"key":"drpy_js_ikanbot3","name":"爱看 | 机器3[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ikanbot3.js"},
-{"key":"drpy_js_ikanbot2","name":"爱看 | 机器2[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
-{"key":"drpy_js_ikanbot3","name":"爱看 | 机器3[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"},
+{"key":"drpy_js_ikanbot2","name":"爱看 | 机器2[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ikanbot2.js"},
+{"key":"drpy_js_ikanbot3","name":"爱看 | 机器3[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ikanbot3.js"},
+//{"key":"drpy_js_ikanbot2","name":"爱看 | 机器2[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
+//{"key":"drpy_js_ikanbot3","name":"爱看 | 机器3[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"},
 {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷云77.js"},
 //
 {"key":"drpy_js_好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.333},"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/好趣网.js"},
 {"key":"drpy_js_我的哔哩","name":"B站 | 合集[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/我的哔哩.js"},
 //
-{"key":"drpy_js_电影港","name":"PG | 电影港[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
+{"key":"drpy_js_MP4US","name":"PG | MP4电影[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
+{"key":"drpy_js_kuba","name":"PG | 酷吧[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/kuba.js", "quickSearch":1, "changeable":1,"timeout":60000},
 //
 {"key":"drpy_js_磁力熊[磁]","name":"磁力 | 磁力熊[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/磁力熊[磁].js"},
 {"key":"drpy_js_6V新版[磁]","name":"磁力 | 6V新版[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/6V新版[磁].js"},
@@ -73,6 +74,8 @@
 {"key":"drpy_js_首播影院","name":"影视 | 首播影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/首播影院.js"},
 {"key":"drpy_js_西瓜影院","name":"影视 | 西瓜影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/西瓜影院.js"},
 {"key":"drpy_js_影视之家","name":"影视 | 影视之家[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/影视之家.js"},
+{"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/TVB云播.js"},
+{"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/B站影视.js"},
 //
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兔小贝.js"},
 {"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/童趣.js"},
@@ -94,6 +97,7 @@
 //
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/AGE动漫.js"},
 //
+{"key":"MV_vod","name":"MV | 卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0,"style":{"type":"oval"}},
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷6网.js"},
 {"key":"drpy_js_网易公版影像","name":"聚合 | 网易公版[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/网易公版影像.js"},
 {"key":"drpy_js_A8音乐","name":"MV | A8音乐[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/A8音乐.js"},
@@ -101,7 +105,9 @@
 {"key":"drpy_js_酷奇MV","name":"MV | 酷奇[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷奇MV.js"},
 {"key":"drpy_js_苹果DJ","name":"MV | 苹果DJ[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/苹果DJ.js"},
 {"key":"drpy_js_音悦网","name":"MV | 音悦网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/音悦网.js"},
-
+//
+{"key":"drpy_js_电影港","name":"PG | 电影港[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
+//
 {"key":"说明","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
     ],
 "rules":[
