@@ -19,8 +19,10 @@
 //
 {"key":"drpy_js_MP4US","name":"PG | MP4电影[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_kuba","name":"PG | 酷吧[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/kuba.js", "quickSearch":1, "changeable":1,"timeout":60000},
+{"key":"drpy_js_xb6v","name":"PG | 新版6v[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 //
 {"key":"drpy_js_磁力熊[磁]","name":"磁力 | 磁力熊[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/磁力熊[磁].js"},
+{"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_6V新版[磁]","name":"磁力 | 6V新版[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/6V新版[磁].js"},
 {"key":"drpy_js_9U电影","name":"影视 | 9U电影[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/9U电影.js"},
 {"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/UM电影[V2].js"},
@@ -32,8 +34,6 @@
 {"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cokemv.js"},
 {"key":"drpy_js_饭团影视","name":"影视 | 饭团影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/饭团影视.js"},
 {"key":"drpy_js_城市电影","name":"影视 | 城市电影[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/城市电影.js"},
-{"key":"drpy_js_F7好看剧[V2]","name":"影视 | F7好看剧[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/F7好看剧[V2].js"},
-{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/哔哩影视.js"},
 {"key":"drpy_js_兄弟影视","name":"影视 | 兄弟影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兄弟影视.js"},
 {"key":"drpy_js_映迷影院","name":"影视 | 映迷影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/映迷影院.js"},
 {"key":"drpy_js_中国人","name":"影视 | 中国人[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/中国人.js"},
@@ -77,6 +77,15 @@
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/TVB云播.js"},
 {"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/B站影视.js"},
 //
+{"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/LIBVIO.js"},
+{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/乐猪TV.js"},
+{"key":"drpy_js_两个BT","name":"影视 | 两个BT[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/两个BT.js"},
+{"key":"drpy_js_六度TV","name":"影视 | 六度TV[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/六度TV.js"},
+{"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/69美剧[V2].js"},
+{"key":"drpy_js_稀饭影视","name":"影视 | 稀饭影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/稀饭影视.js"},
+{"key":"drpy_js_时光影视","name":"影视 | 时光影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/时光影视.js"},
+{"key":"drpy_js_4K电影网","name":"影视 | 4K电影网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/4K电影网.js"},
+//
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兔小贝.js"},
 {"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/童趣.js"},
 {"key":"drpy_js_嘶哩嘶哩","name":"影视 | 嘶哩嘶哩[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/嘶哩嘶哩.js"},
@@ -105,7 +114,10 @@
 {"key":"drpy_js_酷奇MV","name":"MV | 酷奇[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷奇MV.js"},
 {"key":"drpy_js_苹果DJ","name":"MV | 苹果DJ[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/苹果DJ.js"},
 {"key":"drpy_js_音悦网","name":"MV | 音悦网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/音悦网.js"},
+{"key":"drpy_js_JangoIndex","name":"影视 | JangoIndex[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/JangoIndex.js"},
 //
+{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/哔哩影视.js"},
+{"key":"drpy_js_F7好看剧[V2]","name":"影视 | F7好看剧[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/F7好看剧[V2].js"},
 {"key":"drpy_js_电影港","name":"PG | 电影港[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 //
 {"key":"说明","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
@@ -122,7 +134,7 @@
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-//DRJS(2023822)
+//DRJS(2023826)
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"小新","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
 {"name":"饭","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
