@@ -1,7 +1,7 @@
 {
 "spider":"https://notabug.org/softeam/mainworks/raw/master/jar/int.jar;md5;2A88192B6A0A8F95C9F9F99CD501F90A",
 "sites":[
-{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(myJSmini测试专用接口)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
+{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(JSmini测试专用接口)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/荐片.js"},
 {"key":"drpy_js_爱看机器人","name":"影视 | 爱看机器人新版[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱看机器人.js"},
