@@ -1,8 +1,9 @@
+#20231010-a
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[aWatch)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
+{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(aWatch)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 
 {"key":"[饭太硬]说明","name":"[饭太硬]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
@@ -1085,7 +1086,7 @@
 
 {"key":"[DRJS]说明","name":"[DRJS]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-//DRJS(20231009)
+//DRJS(20231010)
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_search3_min.js"},
@@ -1131,12 +1132,16 @@
 {"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/阿布影院.js"},
 {"key":"drpy_js_华乐影院","name":"影视 | 华乐影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/华乐影院.js"},
 
+{"key":"drpy_js_4K视界[V2]","name":"影视 | 4K视界[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/4K视界[V2].js"},
 {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/69美剧[V2].js"},
+{"key":"drpy_js_cokemv[V2]","name":"影视 | cokemv[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cokemv[V2].js"},
+{"key":"drpy_js_EMO蓝光[V2]","name":"影视 | EMO蓝光[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/EMO蓝光[V2].js"},
 {"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/UM电影[V2].js"},
 {"key":"drpy_js_爱迪[V2]","name":"影视 | 爱迪[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱迪[V2].js"},
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/创艺影视[V2].js"},
 {"key":"drpy_js_咕噜[V2]","name":"影视 | 咕噜[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/咕噜[V2].js"},
+{"key":"drpy_js_热剧猫[V2]","name":"影视 | 热剧猫[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/热剧猫[V2].js"},
 {"key":"drpy_js_速看100[V2]","name":"影视 | 速看100[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/速看100[V2].js"},
 {"key":"drpy_js_鸭鸭[V2]","name":"影视 | 鸭鸭[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/鸭鸭[V2].js"},
 {"key":"drpy_js_影探[V2]","name":"影视 | 影探[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/影探[V2].js"},
