@@ -2,7 +2,6 @@
 
 "spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem1008.jar;md5;54AD5B51A6258F595B8C227CE74EAB29",
 
-
 "wallpaper":"https://PIC.clem7.repl.co",
 
 "lives":[
@@ -241,7 +240,6 @@
 {"key":"drjs_qimiao_PG","name":"雷蒙影视 | 🧲奇妙搜(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/qimiao.js"},
 {"key":"drjs_rrdyw_PG","name":"雷蒙影视 | 🧲RRDY网(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/rrdyw.js"},
  
-  
   
 // ⇩⇩ CatVodOpen规则 ⇩⇩ 
 
@@ -549,7 +547,6 @@
 {"key":"drjs_黄瓜TV","name":"雷蒙影视 | 👺黄瓜TV(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/黄瓜TV.js"},
 {"key":"drjs_苹果爱微","name":"雷蒙影视 | 👺苹果爱微(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/苹果爱微.js"},
 
-
   
 // ⇩⇩ XBPQ规则 ⇩⇩ 
 {"key":"csp_雷蒙影视独家","name":"雷蒙影视 | 🤍三万九首卡拉OK(XBPQ)","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"{ \"分类url\": \"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/L2X/{cateId}{catePg}.html\",\"分类\": \"雷蒙影视4K直播$雷蒙影视4K直播#MV$MV\",\"数组\": \"<li&&</li>\",\"图片\": \"https://wx4.sinaimg.cn/mw2000/46aa4ae9ly1h8coftp6uaj20af0afdfz.jpg\",\"标题\": \"href=\\\"/*/&&.html\\\"\",\"链接\": \"href=\\\"&&\\\"\",\"链接前缀\": \"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/L2X\",\"播放数组\": \"<div class=\\\"module-play-list-content&&</div>\",\"播放标题\": \"title=\\\"&&\\\"\",\"播放链接\": \"href=\\\"&&\\\"\" }"},
@@ -792,7 +789,6 @@
 {"key": "csp_XYQHiker_播视童趣","name":"雷蒙影视 | 🍬播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XYQHiker/播视童趣.json","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/xyq.jar"},
 {"key": "csp_XYQHiker_有声小说吧","name":"雷蒙影视 | 🍬有声小说吧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XYQHiker/有声小说吧.json","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/xyq.jar"},
 {"key": "csp_XYQHiker_DJ呦呦音乐网","name":"雷蒙影视 | 🍬DJ呦呦音乐网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/XYQHiker/DJ呦呦音乐网.json","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/xyq.jar"},
-
 
 
 // ⇩⇩ 香雅情XYQ规则 ⇩⇩ 
@@ -1057,7 +1053,6 @@
 {"key":"csp_xb_电影客","name":"雷蒙影视 | 🤍电影客(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6dy.org/vod/type/{cateId}-{catePg}.html"},
 {"key":"csp_xb_口袋影院","name":"雷蒙影视 | 🤍口袋影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.koudaitv.com/type/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_动漫巴士","name":"雷蒙影视 | 🤍动漫巴士(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dm84.tv/list-{cateId}-{catePg}.html"},
-
 
 
 // ⇩⇩ XML ⇩⇩
