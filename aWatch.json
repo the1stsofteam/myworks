@@ -2286,7 +2286,7 @@
 {"key":"初中(xc)","name":"🅱️初中(xc)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/初中课堂.json","jar":"https://notabug.org/softeam/mainworks/raw/master/jar/nanfeng.jar;md5;FA2C893D90942545A01EE558456AE77A"},
 {"key":"高中(xc)","name":"🅱️高中(xc)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json","jar":"https://notabug.org/softeam/mainworks/raw/master/jar/nanfeng.jar;md5;FA2C893D90942545A01EE558456AE77A"},
 
-/*
+
 {"key":"[巧技]说明","name":"[巧技]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 //Qiaoji(20231009)
@@ -2542,7 +2542,7 @@
       "searchable": 1,
       "ext": "",
 "jar":"https://notabug.org/softeam/mainworks/raw/master/jar/qiaoji.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
-*/
+
 
 {"key":"说明","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 ],
