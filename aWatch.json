@@ -3,7 +3,7 @@
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(aWatc)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
+{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(aWatch]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 
 {"key":"[饭太硬]说明","name":"[饭太硬]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
