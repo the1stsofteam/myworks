@@ -1,6 +1,6 @@
 {
 
-"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem1008.jar;md5;54AD5B51A6258F595B8C227CE74EAB29",
+"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem1012.jar;md5;F2EF279161DAAB8B3BBE2536D1B3ABD7",
 
 
 "wallpaper":"https://PIC.clem7.repl.co",
@@ -194,7 +194,8 @@
 {"key":"csp_AppYsV2_酷喵","name":"雷蒙影视 | 🖤酷喵(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://wkking.top/ikumiao_api.php/v1.vod"},
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"csp_AppYsV2_速看100","name":"雷蒙影视 | 🖤速看100(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
-
+{"key":"csp_AppYsV2_4K视界","name":"雷蒙影视 | 🖤4K视界(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yycms.77ev.cn/api.php/app/"},
+{"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_Bili","name":"雷蒙影视 | 4️⃣哔哩哔哩(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"viewType":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会"}},
@@ -252,6 +253,7 @@
 {"key":"drjs_kkpans_PG","name":"雷蒙影视 | 📀KK网盘(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/kkpans.js"},
  
   
+  
 // ⇩⇩ CatVodOpen规则 ⇩⇩ 
 {"key":"open_一起看","name":"雷蒙影视 | 🍭一起看(OPENJS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/OPENJS/open/yqktv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_布蕾","name":"雷蒙影视 | 🍭布蕾(OPENJS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/OPENJS/open/bulei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -306,7 +308,9 @@
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/B站影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/腾云驾雾.js"},
-{"key":"drjs_玉米","name":"雷蒙影视 | 👺玉米(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/玉米.js"},
+{"key":"drjs_短剧网","name":"雷蒙影视 | 👺短剧网(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/短剧网.js"},
+{"key":"drjs_曲奇影视[V2]","name":"雷蒙影视 | 👺曲奇影视[V2](DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/曲奇影视[V2].js"},
+{"key":"drjs_吼吼[V2]","name":"雷蒙影视 | 👺吼吼[V2](DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/吼吼[V2].js"},
 {"key":"drjs_aoao","name":"雷蒙影视 | 👺aoao(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/aoao.js"},
 {"key":"drjs_热剧猫[V2]","name":"雷蒙影视 | 👺热剧猫[V2](DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/热剧猫[V2].js"},
 {"key":"drjs_cokemv[V2]","name":"雷蒙影视 | 👺cokemv[V2](DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/cokemv[V2].js"},
@@ -562,6 +566,7 @@
 {"key":"drjs_banan","name":"雷蒙影视 | 👺香蕉(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/banan.js"},
 {"key":"drjs_黄瓜TV","name":"雷蒙影视 | 👺黄瓜TV(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/黄瓜TV.js"},
 {"key":"drjs_苹果爱微","name":"雷蒙影视 | 👺苹果爱微(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","searchable":0,"ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/苹果爱微.js"},
+
 
   
 // ⇩⇩ XBPQ规则 ⇩⇩ 
@@ -1343,6 +1348,7 @@
 //HFQ
 {"name":"💧WEB","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"💧77","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["iqiyi","youku","qq","xigua","sohu"]}},
+{"name":"💧77SJ","type":1,"url":"http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=","ext":{"flag":["FEI","iqiyi","youku","qq","xigua","sohu","bilibili"]}},
 {"name":"💧IKu","type":1,"url":"https://api.json.icu/api/?key=49ef7b80dedc4388295d6dcd20042172&url=","ext":{"flag":["iqiyi","youku","mgtv","qq"]}},
 {"name":"💧CS","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url=","ext":{"flag":["iqiyi","youku","mgtv","qq"]}},
 {"name":"💧BuLei","type":1,"url":"http://111.180.197.95:1688/api/json.php/?key=INM7QPEAKaT6KZXLBS&url=","ext":{"flag":["iqiyi","youku","mgtv","qq","YuMi-vip","xigua","sohu"]}},
