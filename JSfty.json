@@ -108,6 +108,7 @@
 //{"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/抓饭体育.js"},
 {"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/抓饭体育.js"},
 //
+{"key":"drpy_js_去看吧","name":"动漫 | 去看吧[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/去看吧.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/AGE动漫.js"},
 //
 {"key":"MV_vod","name":"MV | 卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0,"style":{"type":"oval"}},
