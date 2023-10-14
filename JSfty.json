@@ -2,6 +2,9 @@
 #(fy)
 #(xm)
 #(hc)
+//https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/ 替换为 ./drpy_js/lib/
+//https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ 替换为 ./drpy_js/lib/
+//https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lib/ 替换为 ./drpy_js/lib/
 #20231014-a
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
