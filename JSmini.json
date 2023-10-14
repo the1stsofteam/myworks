@@ -7,7 +7,7 @@
 "spider":"https://notabug.org/softeam/mainworks/raw/master/jar/int.jar;md5;2A88192B6A0A8F95C9F9F99CD501F90A",
 //https://notabug.org/softeam/mainworks/raw/master/jar/daozhang.jar
     "sites": [
-{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(JSmini测试专用接口)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
+{"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(myJSmini测试专用接口)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 
 {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 //
