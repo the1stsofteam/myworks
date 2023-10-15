@@ -5,7 +5,7 @@
 //https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/ 替换为 ./drpy_js/lib/
 //https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ 替换为 ./drpy_js/lib/
 //https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lib/ 替换为 ./drpy_js/lib/
-#20231014-a
+#20231015-a
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
     "sites": [
@@ -16,14 +16,15 @@
 {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 //
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/荐片.js"},
+{"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/南瓜影视.js"},
+{"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/UM电影[V2].js"},
 {"key":"drpy_js_酷云77","name":"影视 | 酷云七七[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷云77.js"},
 //
 {"key":"drpy_js_好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.333},"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/好趣网.js"},
 {"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/live2cms.js","style":{ "type":"oval"},"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/live2mv_data.json"},
+{"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/广播迷FM.js"},
 {"key":"drpy_js_我的哔哩","name":"B站 | 合集[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/我的哔哩.js"},
 //
-{"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/南瓜影视.js"},
-{"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/UM电影[V2].js"},
 {"key":"drpy_js_EMO蓝光[V2]","name":"影视 | EMO蓝光[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/EMO蓝光[V2].js"},
 {"key":"drpy_js_cokemv[V2]","name":"影视 | cokemv[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cokemv[V2].js"},
 //
@@ -79,6 +80,8 @@
 //
 {"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱看影院.js"},
 {"key":"drpy_js_皮皮鸭","name":"影视 | 皮皮鸭[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/皮皮鸭.js"},
+{"key":"drpy_js_朴樱影视","name":"影视 | 朴樱影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/朴樱影视.js"},
+{"key":"drpy_js_花猫TV","name":"影视 | 花猫TV[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/花猫TV.js"},
 //可用，官仓已删
 {"key":"drpy_js_萌蛋蛋[V2]","name":"影视 | 萌蛋蛋[V2]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/萌蛋蛋[V2].js"},
 {"key":"drpy_js_Nike影视","name":"影视 | Nike影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/Nike影视.js"},
@@ -89,9 +92,6 @@
 {"key":"drpy_js_影视之家","name":"影视 | 影视之家[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/影视之家.js"},
 {"key":"drpy_js_六度TV","name":"影视 | 六度TV[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/六度TV.js"},
 {"key":"drpy_js_嘶哩嘶哩","name":"影视 | 嘶哩嘶哩[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/嘶哩嘶哩.js"},
-//
-{"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兔小贝.js"},
-{"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/童趣.js"},
 //
 {"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/喜马拉雅.js","playerType":"2"},
 {"key":"drpy_js_有声小说","name":"听书 | 有声小说[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/有声小说吧.js","playerType":"2"},
@@ -108,8 +108,12 @@
 {"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/310直播.js"},
 {"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://codeberg.org/the1stsofteam/myworks/raw/branch/main/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/抓饭体育.js"},
 //
+{"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兔小贝.js"},
+{"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/童趣.js"},
 {"key":"drpy_js_去看吧","name":"动漫 | 去看吧[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/去看吧.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/AGE动漫.js"},
+{"key":"drpy_js_爱弹幕","name":"动漫 | 爱弹幕[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱弹幕.js"},
+{"key":"drpy_js_奇米动漫","name":"动漫 | 奇米动漫[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/奇米动漫.js"},
 //
 {"key":"MV_vod","name":"MV | 卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0,"style":{"type":"oval"}},
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷6网.js"},
