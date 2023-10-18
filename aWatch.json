@@ -1183,7 +1183,7 @@
 
 {"key":"[DRJS]说明","name":"[DRJS]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-//DRJS(20231014)
+//DRJS(20231018)
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_search3_min.js"},
@@ -1191,6 +1191,7 @@
 {"key":"drpy_js_短剧网","name":"短剧 | 短剧网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/短剧网.js"},
 /*
 {"key":"csp_YGP","name":"新片 | 预告片[jar]","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"荐片","name":"磁力 | 荐片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/jianpian.json"},
 {"key":"csp_WoGG","name":"阿里 | 玩偶哥哥[jar]","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wogg.xyz/", "timeout":30},
 {"key":"csp_Wobg","name":"阿里 | 玩偶表哥[jar]","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"csp_wogg_cli","name":"俊于 | 玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
@@ -1426,9 +1427,6 @@
 {"key":"drpy_js_欧乐影院[飞]","name":"起飞 | 欧乐影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/欧乐影院[飞].js"},
 {"key":"drpy_js_唐人街影视[飞]","name":"起飞 | 唐人街影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/唐人街影视[飞].js"},
 {"key":"drpy_js_小宝影院[飞]","name":"起飞 | 小宝影院[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/小宝影院[飞].js"},
-
-{"key":"bb","name":"配置接口完全免费","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 
 {"key":"[XYQ]说明","name":"[XYQ]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
