@@ -2849,8 +2849,8 @@
 "jar":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/jar/qiaoji.jar;md5;c98693b718bd6ba51be521e91731bf45"},
     {
       "key": "Music_spider(qj)",
-      "name": "音乐欣赏",
-      "api": "csp_Music(qj)",
+      "name": "音乐欣赏(qj)",
+      "api": "csp_Music",
       "type": 3,
       "filterable": 0,
       "quickSearch": 1,
