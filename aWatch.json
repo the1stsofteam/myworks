@@ -1624,6 +1624,29 @@
 {"key":"mtv_xp_动漫巴士(hc)","name":"🐼动漫丨巴士(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/动漫巴士.json"},
 {"key":"mtv_xp_维奇动漫(hc)","name":"🐼维奇丨动漫(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/维奇动漫.json"},
 
+{"key":"[菜妮丝]说明","name":"[菜妮丝]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+
+//cns(20231021)
+//XPBQ系列
+{"key": "360影视(cns)","name": "360┃官源(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/360影视.json"},
+{"key": "乐猪TV(cns)","name": "乐猪┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/乐猪TV.json"},
+{"key": "野荷塘(cns)","name": "野荷塘┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/野荷塘.json"},
+{"key": "素白白影视(cns)","name": "素白白┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/素白白影视.json"},
+{"key": "莫扎兔(cns)","name": "莫扎兔┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/莫扎兔.json"},
+{"key": "干饭影视(cns)","name": "干饭┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/干饭影视.json"},
+{"key": "看一看影视(cns)","name": "看一看┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/看一看影视.json"},
+{"key": "奇优影院(cns)","name": "奇优┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/奇优影院.json"},
+{"key": "Vidhub(cns)","name": "Vidhub┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/Vidhub.json"},
+{"key": "冷曦影视(cns)","name": "冷曦┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/冷曦影视.json"},
+{"key": "NikeTV(cns)","name": "NikeTV┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/NikeTV.json"},
+{"key": "APP影院(cns)","name": "APP┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/APP影院.json"},
+{"key": "剧白白(cns)","name": "剧白白┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/剧白白.json"},
+{"key": "52看剧(cns)","name": "52┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/52看剧.json"},
+{"key": "零度影视(cns)","name": "零度┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/零度影视.json"},
+{"key": "手机影院(cns)","name": "手机影院(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/手机影院.json","jar": "https://tvbox.cainisi.cf/jar/xbpq-ocr.jar"},
+{"key": "短视频(cns)","name": "短视频┃聚合(cns)","type": 3,"api": "csp_XBPQ","searchable": 0,"changeable": 0,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/短视频.json"},
+{"key": "酷奇MV(cns)","name": "🎵酷奇┃MV(cns)","type": 3,"api": "csp_XBPQ","searchable": 0,"changeable": 0,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/酷奇MV.json"},
+
 {"key":"[肥猫]说明","name":"[肥猫]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 //pd(20231020)
@@ -2935,29 +2958,6 @@
 {"key":"csp_XBPQ_LIBVIO影视(zhh)","name":"LIBVIO影视(zhh)","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/zhh/LIBVIO.json"},
 {"key":"csp_XBPQ_厂长资源(zhh)","name":"厂长资源(zhh)","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/zhh/厂长资源.json"},
 {"key":"csp_XBPQ_两个BT(zhh)","name":"两个BT(zhh)","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/zhh/两个BT.json"},
-
-{"key":"[菜妮丝]说明","name":"[菜妮丝]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
-
-//cns(20231021)
-//XPBQ系列
-{"key": "360影视(cns)","name": "360┃官源(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/360影视.json"},
-{"key": "乐猪TV(cns)","name": "乐猪┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/乐猪TV.json"},
-{"key": "野荷塘(cns)","name": "野荷塘┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/野荷塘.json"},
-{"key": "素白白影视(cns)","name": "素白白┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/素白白影视.json"},
-{"key": "莫扎兔(cns)","name": "莫扎兔┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/莫扎兔.json"},
-{"key": "干饭影视(cns)","name": "干饭┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/干饭影视.json"},
-{"key": "看一看影视(cns)","name": "看一看┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/看一看影视.json"},
-{"key": "奇优影院(cns)","name": "奇优┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/奇优影院.json"},
-{"key": "Vidhub(cns)","name": "Vidhub┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/Vidhub.json"},
-{"key": "冷曦影视(cns)","name": "冷曦┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/冷曦影视.json"},
-{"key": "NikeTV(cns)","name": "NikeTV┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/NikeTV.json"},
-{"key": "APP影院(cns)","name": "APP┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/APP影院.json"},
-{"key": "剧白白(cns)","name": "剧白白┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/剧白白.json"},
-{"key": "52看剧(cns)","name": "52┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/52看剧.json"},
-{"key": "零度影视(cns)","name": "零度┃影视(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/零度影视.json"},
-{"key": "手机影院(cns)","name": "手机影院(cns)","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/手机影院.json","jar": "https://tvbox.cainisi.cf/jar/xbpq-ocr.jar"},
-{"key": "短视频(cns)","name": "短视频┃聚合(cns)","type": 3,"api": "csp_XBPQ","searchable": 0,"changeable": 0,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/短视频.json"},
-{"key": "酷奇MV(cns)","name": "🎵酷奇┃MV(cns)","type": 3,"api": "csp_XBPQ","searchable": 0,"changeable": 0,"ext": "https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/cns/酷奇MV.json"},
 
 {"key":"说明","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 ],
