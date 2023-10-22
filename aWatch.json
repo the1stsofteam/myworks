@@ -30,7 +30,7 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
+      "filterable": 0
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -38,7 +38,7 @@
       "name": "🐼️┃电视┃直播(pd)",
       "type": 3,
       "api": "./feimao/lib/直播转点播2.js",
-      "ext": "./feimao/lib/直播仓.json",
+      "ext": "./feimao/lib/直播仓.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -48,7 +48,7 @@
       "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -61,7 +61,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.68
-      },
+      }
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -75,7 +75,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "gridview": "0-0-4.1",
+      "gridview": "0-0-4.1"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -86,7 +86,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/alist.json",
+      "ext": "./feimao/lib/alist.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -97,7 +97,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -126,7 +126,7 @@
         "日韩剧",
         "国产剧",
         "电影"
-      ],
+      ]
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/",
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -147,7 +147,7 @@
       "api": "csp_AppYsV2",
       "ext": "https://app.dianyi.ng/api.php/v1.vod",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv",
+      "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -169,7 +169,7 @@
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,
-      "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g==",
+      "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -180,7 +180,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA=",
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -191,7 +191,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD",
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -203,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://api.jialiangos.com:81/api.php/app/",
+      "ext": "http://api.jialiangos.com:81/api.php/app/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -212,7 +212,7 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
-      "quickSearch": 0,
+      "quickSearch": 0
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -220,7 +220,7 @@
       "name": "🎬┃荐片┃影视(pd)",
       "type": 3,
       "api": "./feimao/lib/drpy1.min.js",
-      "ext": "./feimao/lib/jp.js",
+      "ext": "./feimao/lib/jp.js"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -231,7 +231,7 @@
       "ext": "./feimao/lib/磁力熊.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -239,7 +239,7 @@
       "name": "🤖┃素白┃影视(pd)",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./feimao/lib/素白白.json",
+      "ext": "./feimao/lib/素白白.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -247,7 +247,7 @@
       "name": "🐯┃虎虎┃影视(pd)",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./feimao/lib/虎虎.json",
+      "ext": "./feimao/lib/虎虎.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -266,7 +266,7 @@
         "播放标题": "<span>&&</span>",
         "分类": "电影$1#海外剧$2#日韩剧$21#动漫$20#短剧$23",
         "分类url": "https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
-      },
+      }
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -310,7 +310,7 @@
         "搜索链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
         "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
         "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-      },
+      }
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -354,7 +354,7 @@
         "影视解说"
       ],
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -362,7 +362,7 @@
       "name": "💤┃畅梦┃影视(pd)",
       "type": 3,
       "api": "./feimao/lib/drpy2.min.js",
-      "ext": "./feimao/lib/changmeng.js",
+      "ext": "./feimao/lib/changmeng.js"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -390,7 +390,7 @@
         "港台剧",
         "泰国剧",
         "海外剧"
-      ],
+      ]
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -400,7 +400,7 @@
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -411,7 +411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yycms.77ev.cn/api.php/app/",
+      "ext": "http://yycms.77ev.cn/api.php/app/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -422,7 +422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.6080yy3.com/",
+      "ext": "https://www.6080yy3.com/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -432,7 +432,7 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -440,7 +440,7 @@
       "name": "🌾┃农民┃影视(pd)",
       "type": 3,
       "api": "csp_Nmys",
-      "ext": "./feimao/lib/nmys.json",
+      "ext": "./feimao/lib/nmys.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -450,7 +450,7 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 0
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -462,7 +462,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://cz01.pw/",
+      "ext": "https://cz01.pw/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -473,7 +473,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -483,7 +483,7 @@
       "api": "csp_AppMr",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -495,7 +495,7 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -507,7 +507,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://api123.adys.app/xgapp.php/v3/",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -517,7 +517,7 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -531,7 +531,7 @@
         "分类": "电影$1#剧集$2#国产剧集$20#欧美剧集$21#动漫$3#综艺$4",
         "搜索模式": "1",
         "搜索url": "https://www.yizhiwo.cc/vodsearch/{wd}-------------.html"
-      },
+      }
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -553,7 +553,7 @@
         "主演": "主演：&&</div>",
         "分类": "movie$movie#连续剧$tv#综艺$variety#动漫$cartoon",
         "分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
-      },
+      }
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -575,7 +575,7 @@
         "跳转播放链接": "<iframe*src=\"&&\"",
         "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
-      },
+      }
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -587,7 +587,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/七月影视.json",
+      "ext": "./feimao/lib/七月影视.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -599,7 +599,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "https://www.libvio.fun/",
+      "ext": "https://www.libvio.fun/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -610,7 +610,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -618,7 +618,7 @@
       "name": "🐜┃麻衣┃影视(pd)",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./feimao/lib/麻衣呀呼.json",
+      "ext": "./feimao/lib/麻衣呀呼.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -626,7 +626,7 @@
       "name": "🐨┃爱奇┃官源(pd)",
       "type": 3,
       "api": "./feimao/lib/ddrpy2.m.js",
-      "ext": "./feimao/lib/爱奇.js",
+      "ext": "./feimao/lib/爱奇.js"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -636,7 +636,7 @@
       "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -647,7 +647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/360影视.json",
+      "ext": "./feimao/lib/360影视.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -657,7 +657,7 @@
       "api": "csp_Mtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -668,7 +668,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.ysgc.fun",
+      "ext": "https://www.ysgc.fun"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -676,7 +676,7 @@
       "name": "🌊┃蓝猫┃动漫(pd)",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -686,7 +686,7 @@
       "api": "csp_Ying",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -696,7 +696,7 @@
       "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -707,7 +707,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -718,7 +718,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -730,7 +730,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -742,7 +742,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -754,7 +754,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -766,7 +766,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -776,7 +776,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "ext": "./feimao/lib/bili.json",
+      "ext": "./feimao/lib/bili.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -786,7 +786,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "ext": "./feimao/lib/戏曲.json",
+      "ext": "./feimao/lib/戏曲.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -796,7 +796,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./feimao/lib/ych.json",
+      "ext": "./feimao/lib/ych.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -807,7 +807,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./feimao/lib/短视频.json",
+      "ext": "./feimao/lib/短视频.json"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -817,7 +817,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -827,7 +827,7 @@
       "api": "csp_Tangrenjie",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -837,7 +837,7 @@
       "api": "csp_If101",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -847,7 +847,7 @@
       "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -858,7 +858,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/少儿教育.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I=:0",
+      "ext": "./feimao/lib/少儿教育.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I=:0"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -869,7 +869,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/小学课堂.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M=:0",
+      "ext": "./feimao/lib/小学课堂.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M=:0"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -880,7 +880,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/初中课堂.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0=:0",
+      "ext": "./feimao/lib/初中课堂.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0=:0"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -891,7 +891,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./feimao/lib/高中课堂.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc=:0",
+      "ext": "./feimao/lib/高中课堂.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc=:0"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
@@ -911,7 +911,7 @@
       "name": "关注公众号“肥猫宝贝”(pd)",
       "type": 3,
       "api": "./feimao/lib/协议.js",
-      "ext": "clan://proxy?sourcekey=ext_live_protocol",
+      "ext": "clan://proxy?sourcekey=ext_live_protocol"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
 
