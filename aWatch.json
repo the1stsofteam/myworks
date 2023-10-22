@@ -903,7 +903,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd",
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd"
 ,"jar": "./feimao/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
