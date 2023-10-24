@@ -223,10 +223,10 @@
 
 {"key":"[小米]说明","name":"[小米]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-//xm(20231023)
+//xm(20231024)
     {
       "key": "豆豆(xm)",
-      "name": "豆瓣┃10.17接口仅供测试(xm)",
+      "name": "豆瓣┃10.23接口仅供测试(xm)",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -249,13 +249,13 @@
     },
     {
       "key": "csp_WoGG(xm)",
-      "name": "🎬玩偶┃阿里🎉(xm)",
+      "name": "玩偶┃4K(弹幕测试)(xm)",
       "type": 3,
       "api": "csp_WoGG",
-      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"
     },
     {
       "key": "世界(xm)",
@@ -452,7 +452,7 @@
       "name": "美剧┃影视(xm)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
+      "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -465,7 +465,7 @@
         "图片": "\"vod_pic\"*\"&&\"",
         "标题": "\"vod_name\"*\"&&\"",
         "副标题": "\"vod_remarks\"*\"&&\"",
-        "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
+        "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=fgDdxSaYjcm9bcB3EEDb6yZpi3jPJnlNesR48t8u7KR5Zg9t7oOP3OhXcUqfdcf30TDbuK9cx6wO%2BuqDzCOMWm8OU6m6jjMQd5W56peu5OtP1CfYHz5b1EdzI1HH2qobNv6dQZYtbvBK9Y%2F37El1%2Bw%3D%3D",
         "线路数组": "\"player_info\":{&&}",
         "线路标题": "\"show\"*\"&&\"",
         "导演": "vod_director\"*\"&&\"",
@@ -480,12 +480,6 @@
         "播放链接": "解析+\"url\"*\"&&\"",
         "搜索url": "http://172.247.44.75:8083/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
         "搜索模式": "1",
-        "搜索二次截取": "\"data\"*[&&]",
-        "搜索数组": "{&&}",
-        "搜索图片": "\"vod_pic\":\"&&\"",
-        "搜索标题": "\"vod_name\"*\"&&\"",
-        "搜索副标题": "\"vod_remarks\"*\"&&\"",
-        "搜索链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
         "分类url": "http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
         "分类": "短剧$41#电影$1#电视剧$2#动漫$4"
       }
