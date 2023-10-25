@@ -2484,7 +2484,7 @@
 ,
 "jar":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/jar/feimao.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
 
-{"key":"[xc]说明(xc)","name":"[xc]:不要相信视频中的任何广告(xc)","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"[xc]说明","name":"[xc]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 //XC(20231025)
 {"key":"csp_DouDou(xc)","name":"🔍豆瓣┃本接口免费-🈲贩卖(xc)","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/jar/nanfeng.jar;md5;80DD966C54126CED9D5C7AF0AA0D6B53"},
