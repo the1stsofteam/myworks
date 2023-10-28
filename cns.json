@@ -1,13 +1,7 @@
 {
 //"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/int.jar",
     "sites": [
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/广播迷FM.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/kuba.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cilixiong.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/6V新版[磁].js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cokemv.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/城市电影.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/兄弟影视.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱看影院.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/萌蛋蛋[V2].js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/Nike影视.js",
@@ -18,8 +12,6 @@
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/影视之家.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/六度TV.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/嘶哩嘶哩.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/哔哩直播.js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/网易公版影像.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/花猪影视[V2].js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/饭团影视.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/剧迷su.js",
@@ -28,7 +20,6 @@
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/音悦网.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/稀饭影视.js",
 "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/F7好看剧[V2].js",
-"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/dygang.js",
 
     ],
 }
