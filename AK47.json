@@ -3,7 +3,7 @@
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/荐片.js","playerType":"1"}, 
 {"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/310直播.js"}, 
-/*
+
 //{"key":"bulei","name":"不累[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/bulei_open.js"},
 //{"key":"yrzj","name":"一人[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/yrzj_open.js"},
 {"key":"sharenice_open","name":"短视频[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/sharenice_open.js","playerType":"2"},
@@ -32,7 +32,7 @@
 {"key":"zxzj","name":"在线之家[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/zxzj_open.js"},
 //{"key":"kkys","name":"快看影视[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/kkys_open.js"},
 //{"key":"影視","name":"影視[嫖他]","type":3,"api":"csp_YingShi"},
-*/
+
 {"key":"drpy_js_短剧网","name":"影视 | 短剧网[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/短剧网.js"},
 {"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/阿布影院.js"},
 {"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/抓饭体育.js"},
