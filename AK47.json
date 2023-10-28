@@ -1,10 +1,8 @@
 {"spider":"https://codeberg.org/AK47/drpy-js/raw/branch/main/f.jar",
  "sites":[
-/*
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/荐片.js","playerType":"1"}, 
 {"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/310直播.js"}, 
-*/
 /*
 //{"key":"bulei","name":"不累[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/bulei_open.js"},
 //{"key":"yrzj","name":"一人[cat]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/cat/yrzj_open.js"},
