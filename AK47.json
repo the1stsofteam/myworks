@@ -230,11 +230,11 @@
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/子子影视.js"},
 {"key":"賤賤","name":"賤賤","type":3,"api":"csp_Jianpian","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"},
-{"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod",},
-{"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod",},
+//
+{"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod"},
+{"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod"},
 {"key":"量子","name":"量子[fm]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key":"非凡","name":"非凡[fm]","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
-//
 {"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod"},
 //
 {"key":"櫻花","name":"樱花[fm]","type":3,"api":"csp_Ying"},
