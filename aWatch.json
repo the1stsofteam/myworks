@@ -1,4 +1,4 @@
-#20231028-a
+#20231029-a
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;3eb3583bc70b80ec673d88397967dbec",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -1529,12 +1529,13 @@
 
 {"key":"[荷城茶秀]说明","name":"[荷城茶秀]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-//hc(20231027)
+//hc(20231029)
 //XPBQ系列
 {"key":"csp_乐猪(hc)","name":"🅱️乐猪影视|T追剧(hc)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/乐猪影视.json"},
 {"key":"csp_花猫(hc)","name":"🅱️花猫影视|T追剧(hc)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/花猫影视.json"},
 {"key":"csp_xBPQ_玖八(hc)","name":"🅱️玖八影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/98影视.json"},
 {"key":"csp_星辰(hc)","name":"🅱️星辰影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/星辰影视.json"},
+{"key":"csp_xBPQ_蜗牛(hc)","name":"🅱️蜗牛影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/蜗牛影视.json"},
 {"key":"csp_盒子(hc)","name":"🅱️电影盒子|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/电影盒子.json"},
 {"key":"csp_干饭(hc)","name":"🅱️干饭影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/干饭影视.json"},
 {"key":"csp_xBPQ_疯狗(hc)","name":"🅱️疯狗影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/疯狗影视.json"},
@@ -1546,7 +1547,7 @@
 {"key":"csp_老蟹(hc)","name":"🅱️老蟹影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/老蟹影视.json"},
 //{"key":"csp_威士(hc)","name":"🅱️威士影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/vs影视.json"},
 {"key":"csp_午夜(hc)","name":"🅱️午夜影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/午夜影视.json"},
-{"key":"csp_吼吼(hc)","name":"🅱️吼吼影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/hoho影视.json"},
+//{"key":"csp_吼吼(hc)","name":"🅱️吼吼影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/hoho影视.json"},
 {"key":"csp_农民(hc)","name":"🅱️农民影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/农民影视.json"},
 {"key":"csp_好戏(hc)","name":"🅱️好戏影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/好戏影视.json"},
 //{"key":"csp_低端(hc)","name":"🅱️低端影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/低端影视.json"},
@@ -1563,27 +1564,27 @@
 //{"key":"csp_007(hc)","name":"🅱️凌漆影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/007影视.json"},
 //{"key":"csp_速映(hc)","name":"🅱️速映影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/速映影视.json"},
 {"key":"csp_土豪(hc)","name":"🅱️土豪影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/土豪影视.json"},
-{"key":"csp_奥特(hc)","name":"🅱️奥特影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/奥特影视.json"},
+//{"key":"csp_奥特(hc)","name":"🅱️奥特影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/奥特影视.json"},
 {"key":"csp_兔年(hc)","name":"🅱️兔年影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/YYDS影视.json"},
 {"key":"csp_345(hc)","name":"🅱️看片影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/345看片.json"},
 //{"key":"csp_达龟(hc)","name":"🅱️达龟影院|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/达达龟影视.json"},
 //{"key":"csp_七喜(hc)","name":"🅱️七喜影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/七喜影视.json"},
-{"key":"csp_91(hc)","name":"🅱️玖摇影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/91影视.json"},
+//{"key":"csp_91(hc)","name":"🅱️玖摇影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/91影视.json"},
 {"key":"csp_七年(hc)","name":"🅱️七年影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/七年影视.json"},
 {"key":"csp_酷茶(hc)","name":"🅱️酷茶影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/酷茶影视.json"},
 //{"key":"csp_真不卡(hc)","name":"🅱️不卡影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/真不卡影视.json"},
-{"key":"csp_xBPQ_66(hc)","name":"🅱️鎏琉影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/66影视.json"},
+//{"key":"csp_xBPQ_66(hc)","name":"🅱️鎏琉影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/66影视.json"},
 //{"key":"csp_明帝(hc)","name":"🅱️明帝影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/明帝影视.json"},
 {"key": "csp_蛋蛋(hc)","name": "🅱️蛋蛋影视|T追剧(hc)","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/蛋蛋影视.json"},
 {"key": "csp_黑狐(hc)","name": "🅱️黑狐影视|T追剧(hc)","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/黑狐影视.json"},
 //{"key": "csp_夜光(hc)","name": "🅱️夜光影视|T追剧(hc)","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/夜光影视.json"},
-{"key": "csp_歪片(hc)","name": "🅱️歪片星球|T追剧(hc)","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/歪片星球.json"},
+//{"key": "csp_歪片(hc)","name": "🅱️歪片星球|T追剧(hc)","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/歪片星球.json"},
 //{"key":"csp_臭蛋(hc)","name":"🅱️臭蛋影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/臭蛋影视.json"},
 {"key":"csp_苹果(hc)","name":"🅱️苹果影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/苹果影视.json"},
 {"key":"csp_米爱(hc)","name":"🅱️米爱影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/米爱影视.json"},
 //{"key":"csp_徕米(hc)","name":"🅱️徕米影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/徕米影视.json"},
 //{"key":"csp_毛子(hc)","name":"🅱️毛子影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/毛毛子影视.json"},
-{"key":"csp_视觉(hc)","name":"🅱️视觉影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/新视觉影视.json"},
+//{"key":"csp_视觉(hc)","name":"🅱️视觉影视|T追剧(hc)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/新视觉影视.json"},
 {"key":"csp_子子(hc)","name":"🅱️紫梓影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/子子影视.json"},
 //{"key":"csp_灰太狼(hc)","name":"🅱️灰狼影视|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/灰太狼影视.json"},
 {"key":"csp_非凡(hc)","name":"🅱️非凡资源|T追剧(hc)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/hccx/非凡资源网.json"},
