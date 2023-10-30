@@ -160,6 +160,7 @@
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/T/a.json"},
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/pg.jar"},
 
+
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"key":"csp_AppTo_热剧猫_MULTIJAR","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️热剧猫(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2FwcC0xMjUzMTk2NzAxLmNvcy5hcC1zaGFuZ2hhaS5teXFjbG91ZC5jb20vYXBwLnR4dCIsImtleSI6IjJIeGlzYjJ5OGJhaFdLTW5SakRkUDRHZDhHSjNqczRDIiwiaXYiOiIxMjM4Mzg5NDgzNzYyODM3IiwiY29uZmlnIjoidjEiLCJ1c2VybmFtZSI6InR2MTIzNDU2IiwicGFzc3dvcmQiOiJ0djEyMzQ1NiIsImljIjoiZndFVVd5dGt3SnFISUN0dS9rTnJYR3ZnNUZZbHNtWVcrOEhXcFRhYmhGSkVnQkd0WGJ3V1plYlFpckFKS29iek9KSUdBeU1HeXh4d2hQY3drZXJxTHFkWUxwWkNlbWJYUmMwRDRKbExnNmFiZnJRdFJWNVpBTXhzR0psY09OcGE3Rk5qU2ZaTkJpWDVjNk1pNVB6aTBBPT0ifQ=="},
 {"key":"csp_AppTo_MINO_MULTIJAR","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️MINO(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2JiZG0tMTMxOTIyNjY0Ny5jb3MuYXAtc2hhbmdoYWkubXlxY2xvdWQuY29tLzEuanNvbiIsImtleSI6InIyZXJlelVxeGtqcDFDM2xtSXFCdEx6bHFvWGhOTGg3IiwiaXYiOiIxMjM4Mzg5NDgzNzYyODM3IiwiY29uZmlnIjoidjIiLCJ1c2VybmFtZSI6InR2MTIzNDU2IiwicGFzc3dvcmQiOiJ0djEyMzQ1NiIsImljIjoiSkRuNTlwSjR0TGk4MjIlMkZ3QUtIR1RLd2NPbkglMkZnU3RLbUdLbUtUTjNNTDlibjZaTmtMUjhPTDdseUFWM3owcmdmMklOd1ZKaEVpb3l6RUdYTE1nRWZaZHJlcEdZMDZ2bWJqeVVCekpzZDk0SkVVN2Zibkw1SXhRVHhKSWd2YlN4ZCUyRkRNRUVTQ2l5UXlBeEdlcUJ6UXh3JTNEJTNEIn0K"},
@@ -220,6 +221,7 @@
 {"key":"T4_JianPian","name":"雷蒙影视 | 4️⃣荐片(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_WoGG","name":"雷蒙影视 | 4️⃣玩偶哥哥(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=7984abb3f03c447196459eebd03eda63","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_gitCafe","name":"雷蒙影视 | 4️⃣小纸条(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ffacd77500734287b020987c5c146745"},
+ 
   
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
