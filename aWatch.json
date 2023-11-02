@@ -296,8 +296,8 @@
     },
     {
       "key": "嘿嘿(xm)",
-      "name": "🐼嘿嘿┃App",
-      "jar": "./xiaomi/lib/qj.jar;md5;8028934b4eaa9daaa68c0c7f1c7ed006(xm)",
+      "name": "🐼嘿嘿┃App(xm)",
+      "jar": "./xiaomi/lib/qj.jar;md5;8028934b4eaa9daaa68c0c7f1c7ed006",
       "type": 3,
       "api": "csp_DDMJ",
       "searchable": 1,
@@ -956,7 +956,6 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
     },
-    {
     {
       "key": "UpYun(xm)",
       "name": "☁️Up搜┃4K搜(xm)",
