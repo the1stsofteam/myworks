@@ -1,0 +1,9 @@
+{
+"免嗅":"0",
+"播放数组":"playlistlink-&&</ul>",
+"播放列表": "<a&&/a>",
+"播放标题": ">&&<",
+"播放链接": "href='&&'",
+"分类":"美剧$1#电影$2#泰剧$4#日韩剧$7#剧集$12",
+"分类url":"https://www.yayameiju.com/frim/list{cateId}_{catePg}.html"
+}
