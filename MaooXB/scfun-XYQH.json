@@ -1,0 +1,72 @@
+{
+    "规则名": "双辞动漫",
+    "规则作者": "月轻尘",
+    "请求头参数":"MOBILE_UA",
+    "网页编码格式":"UTF-8",
+    "图片是否需要代理":"0",
+    "是否开启获取首页数据":"0",
+    "分类起始页码": "1",
+    "分类链接": "https://www.scfun.net/show/{cateId}/page/{catePg}.html",
+    "分类名称": "新旧番&TV动画&剧场版",
+    "分类名称替换词": "1&3&4",
+    "筛选数据":{},
+    
+    "分类截取模式": "1",
+    "分类列表数组规则": ".module&&.module-poster-item",
+    "分类片单是否Jsoup写法":"1",
+    "分类片单标题": "a&&Title",
+    "分类片单链接": "a&&href",
+    "分类片单图片": "img&&data-original",
+    "分类片单副标题":".module-item-note&&Text",
+    "分类片单链接加前缀": "https://www.scfun.net",
+    "分类片单链接加后缀": "",
+    
+    "搜索请求头参数":"User-Agent$PC_UA",
+    "搜索链接": "https://www.scfun.net/search.html?wd={wd}",
+    "POST请求数据":"",
+    
+    "搜索截取模式": "1",
+    "搜索列表数组规则": ".module-items&&div",
+    "搜索片单是否Jsoup写法":"1",
+    "搜索片单图片": "img&&data-original",
+    "搜索片单标题": ".module-card-item-title&&a&&Text",
+    "搜索片单链接": "a&&href",
+    "搜索片单副标题":"",
+    "搜索片单链接加前缀": "https://www.scfun.net",
+    "搜索片单链接加后缀": "",
+    
+    "链接是否直接播放": "0",
+    "直接播放链接加前缀": "https://live.52sf.ga/huya/",
+    "直接播放链接加后缀": "#isVideo=true#",
+    "直接播放直链视频请求头": "authority$ku.peizq.online#Referer$https://play.peizq.online",
+    
+    "详情是否Jsoup写法":"1",
+    "类型详情": "",
+    "年代详情": "",
+    "地区详情": "",
+    "演员详情": ".module-info-item-content,1&&Text",
+    "简介详情": ".show-desc&&Text",
+    
+    "线路列表数组规则": "#y-playList&&.tab-item",
+    "线路标题": "span&&Text",
+    
+    "播放列表数组规则": "body&&.module-play-list-content",
+    "选集列表数组规则": "a",
+    "选集标题链接是否Jsoup写法":"1",
+    "选集标题": "a&&title",
+    "选集链接": "a&&href",
+    "是否反转选集序列": "0",
+    "选集链接加前缀": "https://www.scfun.net",
+    "选集链接加后缀": "",
+    
+    //下面几个参数请勿乱用。否则可能会有副作用。
+    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
+    //如果网页源码里没有这种请设置为0
+    "分析MacPlayer":"0",
+    //是否开启手动嗅探，只对网页嗅探有效，0否，1是
+    "是否开启手动嗅探":"0",
+    //手动嗅探视频链接关键词，每个用#隔开
+    "手动嗅探视频链接关键词":".mp4#.m3u8#.flv",
+    //手动嗅探视频链接过滤关键词,每个用#隔开
+    "手动嗅探视频链接过滤词":".html#=http"
+}
