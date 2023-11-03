@@ -1,4 +1,4 @@
-#20231102-a
+#20231103-a
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;354a9990b9ad9bfe5c009157751c7769",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -981,7 +981,7 @@
 
 {"key":"[DRJS]说明","name":"[DRJS]:不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-//DRJS(20231030)
+//DRJS(20231103)
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_search3_min.js"},
@@ -990,36 +990,27 @@
 {"key":"lf_js_p2p","name":"路飞 | 磁力[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_p2p2_min.js","timeout":30},
 {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/lf_live.txt"},
 {"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/live2cms.js","style":{ "type":"oval"},"changeable":0,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/live2mv_data.json"},
+
 /*
-{
-                        "key": "NanGua",
-                        "name": "南瓜|弹幕",
-                        "type": 3,
-                        "api": "csp_NanGua",
-                        "searchable": 1,
-                        "changeable": 1,
-                        "ext": "null$$$1"
-                },
-{"key":"jojo弹幕直连","name":"弹幕 | JOJO[jar]","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"timeout":30},
+{"key":"NanGua","name":"弹幕 | 南瓜[jar]","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},
 {"key":"csp_Sp360","name":"弹幕 | 360[jar]","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true}, "timeout":30},
 {"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/jianpian.json$$$1", "timeout":60},
 {"key":"csp_WoGG","name":"弹幕 | 玩偶哥哥[jar]","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wogg.xyz/", "timeout":30},
 {"key":"csp_Wobg","name":"弹幕 | 玩偶表哥[jar]","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io", "timeout":30},
 {"key":"Ppxzy","name":"弹幕 | 皮皮虾[jar]","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null", "timeout":30}, 
-{"key":"Mino","name":"弹幕 | Mino[jar]","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir$$$null$$$1"},
-{"key":"布雷","name":"弹幕 | 布雷[jar]","type":3,"api":"csp_AppMao","playerType":2,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g==$$$null$$$1"},
-{"key":"一念","name":"弹幕 | 一念[jar]","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS$$$null$$$1"},
 {"key":"新6V","name":"弹幕 | 新6V[jar]","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$http://www.xb6v.com$$$1"},
 {"key":"4KHDR","name":"弹幕 | 4KHDR[jar]","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60},
 {"key":"校长影视","name":"弹幕 | 校长[jar]","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/tvfan/token.json","quickSearch":1,"changeable":1,"timeout":30},
 {"key":"团长资源","name":"弹幕 | 团长[jar]","type":3,"api":"csp_TZFile","ext":"http://127.0.0.1:9978/file/tvfan/token.json", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"迪迪","name":"弹幕 | 迪迪[jar]","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/$$$1"},
 */
+
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷云77.js"},
 {"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/快看.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/爱看.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ddys_d.js"},
 {"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/南瓜影视.js"},
+{"key":"drpy_js_Auete","name":"影视 | Auete[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/Auete.js"},
 {"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/cokemv.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/LIBVIO.js"},
 {"key":"drpy_js_voflix","name":"影视 | voflix[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/voflix.js"},
@@ -1029,6 +1020,7 @@
 {"key":"drpy_js_农民","name":"影视 | 农民影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/农民影视.js"},
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/TVB云播.js"},
 {"key":"drpy_js_在线之家","name":"影视 | 在线之家[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/在线之家.js"},
+{"key":"drpy_js_量子资源","name":"影视 | 量子资源[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/量子资源.js"},
 
 {"key":"drpy_js_热播库","name":"影视 | 热播库[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/热播库.js"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/达达龟.js"},
@@ -1079,6 +1071,7 @@
 {"key":"drpy_js_奇珍异兽","name":"弹幕 | 爱奇艺[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/奇珍异兽.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/菜狗.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/优酷.js"},
+
 /*
 {"key":"Gitcafe", "name": "阿里 | 纸条[jar]", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"小紙條", "name": "阿里 | 小紙條[jar]", "type": 3, "api": "csp_XiaoZhiTiao", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
@@ -1090,6 +1083,7 @@
 {"key":"UP云搜","name":"阿里 | up云搜[jar]","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"csp_Hdhive","name":"阿里 | 影巢[jar]","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$socks5://192.168.1.9:4592","timeout":30},
 */
+
 {"key":"drpy_js_4KHDR","name":"磁力 | 4KHDR[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_极影网","name":"磁力 | 极影网[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_MP4US","name":"磁力 | MP4电影[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
