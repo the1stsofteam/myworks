@@ -1,8 +1,9 @@
-#20231030-a
+#20231104-a
 {
-"spider":"https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/jar/int.jar;md5;2A88192B6A0A8F95C9F9F99CD501F90A",
+"spider":"https://gitee.com/the1stsofteam/miniworks/raw/master/jar/int.jar;md5;2A88192B6A0A8F95C9F9F99CD501F90A",
 //https://notabug.org/softeam/mainworks/raw/master/jar/int.jar
-//https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/jar/daozhang.jar
+//https://codeberg.org/the1stsofteam/miniworks/raw/branch/master/jar/int.jar
+//https://gitee.com/the1stsofteam/miniworks/raw/master/jar/int.jar
     "sites": [
 {"key":"drpy_js_豆瓣main","name":"搜索 | 豆瓣[(myJSmini测试专用接口)]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.js"},
 
